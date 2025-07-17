@@ -46,7 +46,7 @@ Each image will have partitions according to the value defined in the `subcrops`
 - `orientation`: The orientation of the partitions (i.e., `vertical` would be partitioned along the x axis, v.v.).
 - `partition_files`: the names of each partition generated for the source image.
 
-### `hard_failures.txt
+### `hard_failures.txt`
 
 This file lists images that were not considered successful during the partitioning process. These images usually feature partitions with extreme aspect ratios or that bisect salient regions.
 
