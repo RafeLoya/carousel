@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          41.98190045248893,
+          27.038461538461604
+        ],
+        [
+          2231.2126696832584,
+          1486.5256410256409
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1843.8823529411766,
+          463.4411764705884
+        ],
+        [
+          3355.6470588235297,
+          1471.2843137254904
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Children_of_the_South_Lebane...en_resort.jpg",
+  "imageData": null,
+  "imageHeight": 2071,
+  "imageWidth": 3376,
+  "text": ""
+}

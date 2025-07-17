@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          234.21052631578937,
+          750.3421052631579
+        ],
+        [
+          2097.368421052631,
+          1992.4473684210525
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          728.9473684210526,
+          104.28947368421052
+        ],
+        [
+          2860.5263157894733,
+          1525.3421052631575
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "One_Of_The_Bicyclists_Holds_..._May_1973.jpg",
+  "imageData": null,
+  "imageHeight": 2027,
+  "imageWidth": 3000,
+  "text": ""
+}

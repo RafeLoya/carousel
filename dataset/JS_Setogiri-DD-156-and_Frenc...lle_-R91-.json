@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          112.12121212121201,
+          584.3451178451178
+        ],
+        [
+          1214.1414141414143,
+          1319.0252525252527
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          631.0344827586207,
+          24.258620689655167
+        ],
+        [
+          1951.7241379310346,
+          904.7183908045977
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "JS_Setogiri-DD-156-and_Frenc...lle_-R91-.jpg",
+  "imageData": null,
+  "imageHeight": 1333,
+  "imageWidth": 2000,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          470.714285714286,
+          106.0714285714289
+        ],
+        [
+          1967.1428571428573,
+          2350.714285714286
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1999.2857142857142,
+          196.25
+        ],
+        [
+          3433.214285714286,
+          2347.1428571428573
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Munich_skyline.jpg",
+  "imageData": null,
+  "imageHeight": 2355,
+  "imageWidth": 3495
+}

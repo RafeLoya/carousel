@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2284.740740740741,
+          1111.6543209876545
+        ],
+        [
+          3836.5925925925926,
+          2146.222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          403.2592592592591,
+          20.296296296296077
+        ],
+        [
+          2277.3333333333335,
+          2831.4074074074074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Standing_Stones_of_Stenness-_Aug_2014.jpg",
+  "imageData": null,
+  "imageHeight": 2848,
+  "imageWidth": 4288
+}

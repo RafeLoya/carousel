@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3942.538461538462,
+          1568.2307692307704
+        ],
+        [
+          5104.076923076923,
+          3310.538461538462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          270.47368421052624,
+          989.7894736842106
+        ],
+        [
+          4023.1052631578946,
+          3491.543859649123
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Exhibition-_Georgia_-_-3-_A_..._Brussels.jpg",
+  "imageData": null,
+  "imageHeight": 3848,
+  "imageWidth": 5962,
+  "text": ""
+}

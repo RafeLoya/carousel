@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2193.238095238095,
+          894.3015873015872
+        ],
+        [
+          4876.571428571428,
+          2683.190476190476
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          340.85714285714243,
+          197.47619047619037
+        ],
+        [
+          2193.238095238095,
+          2976.0476190476193
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Blue_Car.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 4896
+}

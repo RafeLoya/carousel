@@ -1,0 +1,79 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          18.999999999999773,
+          1295.0
+        ],
+        [
+          1473.1666666666665,
+          2264.4444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          714.833333333333,
+          204.72222222222217
+        ],
+        [
+          2306.5,
+          1265.8333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1660.6666666666665,
+          1279.7222222222226
+        ],
+        [
+          3202.3333333333335,
+          2307.5000000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2869.0,
+          242.9166666666668
+        ],
+        [
+          4585.666666666666,
+          1387.3611111111106
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Water_buffaloes-_Jamuna_Brid..._Eco-Park.jpg",
+  "imageData": null,
+  "imageHeight": 2665,
+  "imageWidth": 4738,
+  "text": ""
+}

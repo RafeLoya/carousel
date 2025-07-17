@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          527.5116279069767,
+          97.27131782945742
+        ],
+        [
+          1540.3023255813953,
+          772.4651162790698
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          35.47761194029848,
+          219.08955223880596
+        ],
+        [
+          569.8059701492537,
+          1020.5820895522386
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Flickr_-_Israel_Defense_Forc...in_Nablus.jpg",
+  "imageData": null,
+  "imageHeight": 1174,
+  "imageWidth": 1662,
+  "text": ""
+}

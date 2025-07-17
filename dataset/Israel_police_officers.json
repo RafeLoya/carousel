@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          59.349593495934954,
+          9.922764227642311
+        ],
+        [
+          649.5934959349594,
+          895.2886178861789
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          879.4520547945206,
+          15.00684931506847
+        ],
+        [
+          1568.4931506849316,
+          1048.5684931506848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Israel_police_officers.jpg",
+  "imageData": null,
+  "imageHeight": 1067,
+  "imageWidth": 1600,
+  "text": ""
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          10.878048780487894,
+          41.76829268292684
+        ],
+        [
+          1401.1219512195123,
+          968.5975609756097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1796.2439024390244,
+          62.09349593495938
+        ],
+        [
+          2779.170731707317,
+          717.3780487804877
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1271.8536585365855,
+          808.8414634146341
+        ],
+        [
+          2171.8536585365855,
+          1408.841463414634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Patrulla_Águila_en_SIAF_y_Ai...38650603-.jpg",
+  "imageData": null,
+  "imageHeight": 1425,
+  "imageWidth": 2812,
+  "text": ""
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          73.83783783783747,
+          1493.8198198198202
+        ],
+        [
+          2736.0,
+          3268.594594594595
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2545.5238095238096,
+          1807.3333333333333
+        ],
+        [
+          5093.142857142857,
+          3505.7460317460313
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Birds_Flying.jpg",
+  "imageData": null,
+  "imageHeight": 3648,
+  "imageWidth": 5472,
+  "text": ""
+}

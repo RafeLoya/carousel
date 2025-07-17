@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          332.6086956521739,
+          950.8913043478261
+        ],
+        [
+          2767.391304347826,
+          2572.6304347826085
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2771.739130434782,
+          63.93478260869415
+        ],
+        [
+          4554.347826086957,
+          2737.8478260869565
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Primer_A400M_-_T23_del_Ejérc...65017383-.jpg",
+  "imageData": null,
+  "imageHeight": 3267,
+  "imageWidth": 4900
+}

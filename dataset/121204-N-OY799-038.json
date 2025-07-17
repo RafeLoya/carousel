@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          80.08333333333326,
+          156.625
+        ],
+        [
+          1655.0833333333333,
+          1206.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1046.75,
+          513.5694444444443
+        ],
+        [
+          3698.8333333333335,
+          2281.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "121204-N-OY799-038.jpg",
+  "imageData": null,
+  "imageHeight": 2832,
+  "imageWidth": 4256
+}

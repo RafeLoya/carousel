@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2297.8536585365855,
+          1498.8617886178865
+        ],
+        [
+          3263.0,
+          2142.2926829268295
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1151.5121951219512,
+          464.2439024390244
+        ],
+        [
+          2249.0731707317073,
+          2110.5853658536585
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          13.250000000000028,
+          1125.5625
+        ],
+        [
+          1141.375,
+          1877.6458333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Empire_State_Building_Cityscape_at_Dusk.jpg",
+  "imageData": null,
+  "imageHeight": 2448,
+  "imageWidth": 3264,
+  "text": ""
+}

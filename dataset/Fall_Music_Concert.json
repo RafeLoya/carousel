@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          19.666666666666515,
+          970.2592592592591
+        ],
+        [
+          1622.4444444444446,
+          2038.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1689.111111111111,
+          797.1111111111111
+        ],
+        [
+          3439.111111111111,
+          1963.7777777777776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Fall_Music_Concert.jpg",
+  "imageData": null,
+  "imageHeight": 2797,
+  "imageWidth": 3456
+}

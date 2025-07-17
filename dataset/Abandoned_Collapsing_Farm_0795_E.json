@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2691.324324324324,
+          768.5495495495488
+        ],
+        [
+          5839.972972972973,
+          2867.6486486486483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          18.35135135135124,
+          1009.9909909909907
+        ],
+        [
+          2448.081081081081,
+          2629.8108108108104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Abandoned_Collapsing_Farm_0795_E.jpg",
+  "imageData": null,
+  "imageHeight": 3338,
+  "imageWidth": 5934
+}

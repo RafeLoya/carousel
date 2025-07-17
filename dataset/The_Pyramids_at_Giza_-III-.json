@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1011.0,
+          1403.5
+        ],
+        [
+          1836.0,
+          1953.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          53.49999999999994,
+          409.33333333333337
+        ],
+        [
+          1376.0,
+          1291.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1681.0,
+          655.1666666666667
+        ],
+        [
+          2728.5,
+          1353.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "The_Pyramids_at_Giza_-III-.jpg",
+  "imageData": null,
+  "imageHeight": 1962,
+  "imageWidth": 2757
+}

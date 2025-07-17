@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1510.3846153846152,
+          568.6025641025644
+        ],
+        [
+          4483.461538461538,
+          2550.653846153846
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          25.769230769230944,
+          475.6538461538464
+        ],
+        [
+          1345.0,
+          2454.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Soccer_-_DSC-4759-ep.jpg",
+  "imageData": null,
+  "imageHeight": 3009,
+  "imageWidth": 4490
+}

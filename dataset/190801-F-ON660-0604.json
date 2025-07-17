@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          351.20370370370387,
+          22.685185185185183
+        ],
+        [
+          2423.4259259259256,
+          1404.1666666666663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1647.5,
+          307.5
+        ],
+        [
+          3600.8333333333335,
+          1609.7222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "190801-F-ON660-0604.jpg",
+  "imageData": null,
+  "imageHeight": 2525,
+  "imageWidth": 3795,
+  "text": ""
+}

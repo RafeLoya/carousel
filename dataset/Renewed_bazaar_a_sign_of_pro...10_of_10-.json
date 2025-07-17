@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          419.2727272727273,
+          349.2121212121215
+        ],
+        [
+          2896.5454545454545,
+          2000.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2896.5454545454545,
+          18.909090909089628
+        ],
+        [
+          5178.363636363637,
+          3441.6363636363635
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Renewed_bazaar_a_sign_of_pro...10_of_10-.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 5184
+}

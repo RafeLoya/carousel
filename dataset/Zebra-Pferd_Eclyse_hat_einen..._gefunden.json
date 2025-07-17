@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          94.94736842105272,
+          42.42105263157896
+        ],
+        [
+          1263.3684210526317,
+          1795.0526315789473
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1439.6842105263154,
+          21.368421052630993
+        ],
+        [
+          2702.842105263158,
+          1916.1052631578948
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Zebra-Pferd_Eclyse_hat_einen..._gefunden.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 2732
+}

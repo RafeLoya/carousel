@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          534.3050847457628,
+          232.50847457627106
+        ],
+        [
+          1795.322033898305,
+          2124.0338983050847
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1868.2033898305085,
+          349.45762711864427
+        ],
+        [
+          2993.6271186440677,
+          2037.593220338983
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Alaska_2007_071.jpg",
+  "imageData": null,
+  "imageHeight": 2304,
+  "imageWidth": 3072
+}

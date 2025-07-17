@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          22.0645161290322,
+          959.4193548387098
+        ],
+        [
+          2354.3225806451615,
+          2514.2580645161293
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2354.3225806451615,
+          838.989247311828
+        ],
+        [
+          4867.225806451614,
+          2514.2580645161293
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Deer_in_a_forest.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 4928
+}

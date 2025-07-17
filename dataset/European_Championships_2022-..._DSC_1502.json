@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          139.31034482758628,
+          940.9827586206898
+        ],
+        [
+          1439.3103448275863,
+          2890.9827586206898
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1522.0689655172414,
+          346.15517241379257
+        ],
+        [
+          3225.5172413793107,
+          2901.3275862068967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3394.48275862069,
+          527.1896551724144
+        ],
+        [
+          4977.241379310345,
+          2901.3275862068967
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "European_Championships_2022-..._DSC_1502.jpg",
+  "imageData": null,
+  "imageHeight": 3413,
+  "imageWidth": 5120
+}

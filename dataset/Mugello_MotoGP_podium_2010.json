@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          678.3505154639174,
+          51.28865979381442
+        ],
+        [
+          1736.0824742268042,
+          756.4432989690722
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.278350515463927,
+          309.02061855670104
+        ],
+        [
+          695.8762886597939,
+          766.7525773195877
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mugello_MotoGP_podium_2010.jpg",
+  "imageData": null,
+  "imageHeight": 1350,
+  "imageWidth": 1800
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2.7472527472527304,
+          125.27472527472548
+        ],
+        [
+          1031.3186813186812,
+          810.989010989011
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.615384615384613,
+          824.0384615384614
+        ],
+        [
+          721.1538461538462,
+          1298.3974358974358
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A_harbor_security_boat_escor...ort_visit.jpg",
+  "imageData": null,
+  "imageHeight": 1500,
+  "imageWidth": 2100,
+  "text": ""
+}

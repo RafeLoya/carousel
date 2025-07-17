@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2450.5,
+          705.7222222222217
+        ],
+        [
+          4867.166666666667,
+          2316.833333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          46.33333333333336,
+          650.1666666666665
+        ],
+        [
+          2442.1666666666665,
+          2247.3888888888887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Places_Market.jpg",
+  "imageData": null,
+  "imageHeight": 2742,
+  "imageWidth": 4876
+}

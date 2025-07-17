@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1167.8571428571427,
+          447.04761904761904
+        ],
+        [
+          3204.9999999999995,
+          1805.1428571428569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          30.714285714285715,
+          444.1904761904764
+        ],
+        [
+          1467.8571428571427,
+          1402.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Väneko_cow_and_bull.jpg",
+  "imageData": null,
+  "imageHeight": 2056,
+  "imageWidth": 3290
+}

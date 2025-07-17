@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          971.0377358490564,
+          66.55974842767284
+        ],
+        [
+          2021.9811320754716,
+          767.188679245283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          14.433962264150901,
+          277.8805031446542
+        ],
+        [
+          963.4905660377357,
+          910.5849056603773
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1238.9622641509432,
+          794.5471698113207
+        ],
+        [
+          2191.7924528301887,
+          1429.7672955974845
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "The_good-_the_bad-_and_the_u...oats-4750.jpg",
+  "imageData": null,
+  "imageHeight": 1474,
+  "imageWidth": 2210,
+  "text": ""
+}

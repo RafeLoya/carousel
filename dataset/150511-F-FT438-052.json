@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          500.5853658536589,
+          754.2276422764232
+        ],
+        [
+          3195.7073170731705,
+          2550.9756097560976
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3329.217391304348,
+          946.5217391304346
+        ],
+        [
+          4877.04347826087,
+          1978.405797101449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "150511-F-FT438-052.jpg",
+  "imageData": null,
+  "imageHeight": 3280,
+  "imageWidth": 4928,
+  "text": ""
+}

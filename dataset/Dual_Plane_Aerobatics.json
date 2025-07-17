@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1149.318181818182,
+          1525.136363636363
+        ],
+        [
+          3376.5909090909095,
+          3009.984848484848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2022.045454545455,
+          88.7727272727277
+        ],
+        [
+          4194.772727272727,
+          1537.2575757575758
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Dual_Plane_Aerobatics.jpg",
+  "imageData": null,
+  "imageHeight": 3023,
+  "imageWidth": 4535
+}

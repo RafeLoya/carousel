@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1017.0909090909092,
+          8.666666666666742
+        ],
+        [
+          2733.4545454545455,
+          1152.9090909090908
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          8.000000000000227,
+          1052.909090909091
+        ],
+        [
+          1158.909090909091,
+          1820.181818181818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Choi_Hung_Road_Playground_Ka...ture_2018.jpg",
+  "imageData": null,
+  "imageHeight": 1824,
+  "imageWidth": 2736
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.0,
+          263.00000000000045
+        ],
+        [
+          2743.090909090909,
+          2085.727272727273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1688.5454545454545,
+          1101.6363636363637
+        ],
+        [
+          3949.909090909091,
+          2609.212121212121
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Hampi-_Karanatanaka-_Nov-2018_3.jpg",
+  "imageData": null,
+  "imageHeight": 2976,
+  "imageWidth": 3968
+}

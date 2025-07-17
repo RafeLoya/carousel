@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          903.2966101694916,
+          87.22881355932213
+        ],
+        [
+          1604.991525423729,
+          1139.771186440678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          33.805084745762684,
+          18.584745762711822
+        ],
+        [
+          867.7033898305084,
+          1269.4322033898306
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Podium_Silverstone_GP2_C1_2016.jpg",
+  "imageData": null,
+  "imageHeight": 1327,
+  "imageWidth": 1671,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2374.9999999999995,
+          1208.5714285714287
+        ],
+        [
+          3960.7142857142853,
+          2265.714285714286
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1139.2857142857142,
+          105.00000000000045
+        ],
+        [
+          3571.428571428571,
+          1726.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Pigeon_Island_National_Park-_Trincomalee.jpg",
+  "imageData": null,
+  "imageHeight": 2460,
+  "imageWidth": 4100
+}

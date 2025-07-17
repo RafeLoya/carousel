@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          86.0,
+          517.6666666666667
+        ],
+        [
+          1984.0,
+          1783.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1938.0,
+          580.3333333333334
+        ],
+        [
+          3001.0,
+          1289.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cows_and_Wall_of_Solovki_Monastery.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3008
+}

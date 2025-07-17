@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1603.894736842105,
+          21.23684210526335
+        ],
+        [
+          2531.5263157894733,
+          1412.6842105263158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          638.1052631578948,
+          162.68421052631606
+        ],
+        [
+          1474.9473684210525,
+          1417.9473684210527
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          13.10526315789474,
+          427.1578947368421
+        ],
+        [
+          655.2105263157895,
+          1390.3157894736846
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "King_Penguin.jpg",
+  "imageData": null,
+  "imageHeight": 1728,
+  "imageWidth": 2592
+}

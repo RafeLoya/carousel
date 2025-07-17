@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          942.156862745098,
+          470.84313725490193
+        ],
+        [
+          2269.607843137255,
+          1355.8104575163397
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          506.8627450980391,
+          106.13725490196089
+        ],
+        [
+          1418.627450980392,
+          713.9803921568628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Phalacrocorax_brasilianus_-A..._flying-8.jpg",
+  "imageData": null,
+  "imageHeight": 1426,
+  "imageWidth": 2300,
+  "text": ""
+}

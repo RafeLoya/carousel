@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          25.743589743589936,
+          589.5897435897434
+        ],
+        [
+          1964.2051282051284,
+          1881.8974358974358
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2212.6666666666665,
+          627.6666666666667
+        ],
+        [
+          3832.6666666666665,
+          1707.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Children_Playing_Stencil_Art.jpg",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 3872,
+  "text": ""
+}

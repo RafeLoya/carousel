@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          94.0,
+          24.0
+        ],
+        [
+          898.0,
+          1230.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          932.0,
+          61.33333333333337
+        ],
+        [
+          2316.0,
+          984.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Team_Repair_Report_gets_unde...Chandler-.jpg",
+  "imageData": null,
+  "imageHeight": 1524,
+  "imageWidth": 2332
+}

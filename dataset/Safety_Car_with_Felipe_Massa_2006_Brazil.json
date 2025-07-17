@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          42.76086956521749,
+          205.2246376811595
+        ],
+        [
+          853.6304347826087,
+          745.804347826087
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          10.152173913043612,
+          941.4565217391304
+        ],
+        [
+          903.6304347826087,
+          1537.1086956521738
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Safety_Car_with_Felipe_Massa_2006_Brazil.jpg",
+  "imageData": null,
+  "imageHeight": 1709,
+  "imageWidth": 929
+}

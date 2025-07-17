@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1980.0952380952383,
+          64.15873015873035
+        ],
+        [
+          3262.6349206349205,
+          1987.9682539682537
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3.9047619047619264,
+          326.5925925925926
+        ],
+        [
+          2110.253968253968,
+          1730.8253968253966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Bears_Alaska_-3-.jpg",
+  "imageData": null,
+  "imageHeight": 2168,
+  "imageWidth": 3484
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          316.12121212121224,
+          18.18181818181818
+        ],
+        [
+          1482.7878787878788,
+          1768.181818181818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1893.7435897435898,
+          408.97435897435895
+        ],
+        [
+          2811.6923076923076,
+          1785.8974358974356
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Goole_Docks.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3008,
+  "text": ""
+}

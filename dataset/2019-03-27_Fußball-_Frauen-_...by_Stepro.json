@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          10.500000000000227,
+          679.5
+        ],
+        [
+          1518.0000000000002,
+          2940.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1183.2173913043478,
+          96.56521739130449
+        ],
+        [
+          2191.913043478261,
+          1609.6086956521744
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2019-03-27_Fußball-_Frauen-_...by_Stepro.jpg",
+  "imageData": null,
+  "imageHeight": 3354,
+  "imageWidth": 2236,
+  "text": ""
+}

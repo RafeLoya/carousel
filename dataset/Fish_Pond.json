@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1297.5384615384614,
+          865.2863247863247
+        ],
+        [
+          3864.2051282051284,
+          2576.397435897436
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          15.487179487179674,
+          619.9871794871792
+        ],
+        [
+          1318.0512820512822,
+          2573.833333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Fish_Pond.jpg",
+  "imageData": null,
+  "imageHeight": 2581,
+  "imageWidth": 3872
+}

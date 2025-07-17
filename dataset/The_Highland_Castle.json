@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          628.0,
+          1019.0
+        ],
+        [
+          2938.0,
+          2559.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3103.0,
+          994.0
+        ],
+        [
+          5458.0,
+          2564.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "The_Highland_Castle.jpg",
+  "imageData": null,
+  "imageHeight": 3738,
+  "imageWidth": 5646
+}

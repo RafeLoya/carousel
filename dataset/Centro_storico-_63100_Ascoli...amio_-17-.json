@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3233.6111111111113,
+          236.88888888888914
+        ],
+        [
+          4878.055555555556,
+          2703.5555555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1079.9999999999998,
+          9.249999999999886
+        ],
+        [
+          2746.6666666666665,
+          2509.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Centro_storico-_63100_Ascoli...amio_-17-.jpg",
+  "imageData": null,
+  "imageHeight": 2756,
+  "imageWidth": 4885,
+  "text": ""
+}

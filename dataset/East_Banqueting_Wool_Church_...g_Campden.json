@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          903.9014084507041,
+          877.5352112676056
+        ],
+        [
+          1508.1267605633802,
+          1280.3521126760563
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          88.40845070422529,
+          38.802816901408505
+        ],
+        [
+          937.7042253521126,
+          1312.7464788732395
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1303.9014084507044,
+          44.436619718309885
+        ],
+        [
+          1913.7605633802818,
+          959.2253521126761
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "East_Banqueting_Wool_Church_...g_Campden.jpg",
+  "imageData": null,
+  "imageHeight": 1410,
+  "imageWidth": 1974
+}

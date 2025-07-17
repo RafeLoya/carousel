@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1215.5121951219512,
+          861.6951219512196
+        ],
+        [
+          1956.9756097560974,
+          1973.890243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1947.2195121951218,
+          762.9146341463411
+        ],
+        [
+          2754.5365853658536,
+          1973.890243902439
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cruise_Ships.jpg",
+  "imageData": null,
+  "imageHeight": 2199,
+  "imageWidth": 3792
+}

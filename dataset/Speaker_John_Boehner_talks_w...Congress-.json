@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2884.3809523809527,
+          373.8809523809523
+        ],
+        [
+          5046.285714285715,
+          3616.7380952380954
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          27.23809523809537,
+          2.452380952380885
+        ],
+        [
+          2446.2857142857147,
+          3631.0238095238096
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Speaker_John_Boehner_talks_w...Congress-.jpg",
+  "imageData": null,
+  "imageHeight": 3643,
+  "imageWidth": 5464
+}

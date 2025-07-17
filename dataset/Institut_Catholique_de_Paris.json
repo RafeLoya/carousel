@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1460.6060606060605,
+          662.1212121212121
+        ],
+        [
+          2998.484848484848,
+          1716.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          156.060606060606,
+          523.7373737373737
+        ],
+        [
+          1090.909090909091,
+          1146.969696969697
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Institut_Catholique_de_Paris.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3000,
+  "text": ""
+}

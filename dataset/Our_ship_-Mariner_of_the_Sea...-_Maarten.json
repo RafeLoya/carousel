@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1439.0243902439022,
+          57.89024390243867
+        ],
+        [
+          2619.512195121951,
+          1828.621951219512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          260.9756097560976,
+          115.20731707317077
+        ],
+        [
+          1419.512195121951,
+          1853.012195121951
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Our_ship_-Mariner_of_the_Sea...-_Maarten.jpg",
+  "imageData": null,
+  "imageHeight": 1867,
+  "imageWidth": 2800
+}

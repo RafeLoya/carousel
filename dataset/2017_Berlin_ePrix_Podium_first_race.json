@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          124.95238095238102,
+          562.7619047619046
+        ],
+        [
+          1289.2380952380954,
+          2309.190476190476
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1579.714285714286,
+          72.28571428571513
+        ],
+        [
+          3282.095238095238,
+          2625.857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3296.3809523809523,
+          1022.2857142857142
+        ],
+        [
+          4246.380952380952,
+          2447.285714285714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2017_Berlin_ePrix_Podium_first_race.jpg",
+  "imageData": null,
+  "imageHeight": 3216,
+  "imageWidth": 4288
+}

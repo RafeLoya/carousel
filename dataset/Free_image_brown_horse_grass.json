@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3242.428571428571,
+          687.7857142857135
+        ],
+        [
+          4311.0,
+          2290.642857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          37.92307692307698,
+          60.80769230769232
+        ],
+        [
+          3357.153846153846,
+          2273.628205128205
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Free_image_brown_horse_grass.jpg",
+  "imageData": null,
+  "imageHeight": 2487,
+  "imageWidth": 4422,
+  "text": ""
+}

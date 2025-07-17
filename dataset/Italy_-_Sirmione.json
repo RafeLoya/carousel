@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2497.5,
+          1311.7037037037037
+        ],
+        [
+          4783.611111111111,
+          2835.777777777778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          137.9761904761906,
+          2197.2857142857147
+        ],
+        [
+          2199.880952380953,
+          3571.8888888888896
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Italy_-_Sirmione.jpg",
+  "imageData": null,
+  "imageHeight": 3666,
+  "imageWidth": 4895,
+  "text": ""
+}

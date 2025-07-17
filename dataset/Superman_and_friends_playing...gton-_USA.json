@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          830.1632653061224,
+          594.8571428571428
+        ],
+        [
+          1460.7755102040817,
+          1540.7755102040817
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          136.28571428571422,
+          496.8979591836735
+        ],
+        [
+          824.0408163265306,
+          1528.530612244898
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Superman_and_friends_playing...gton-_USA.jpg",
+  "imageData": null,
+  "imageHeight": 1604,
+  "imageWidth": 1644
+}

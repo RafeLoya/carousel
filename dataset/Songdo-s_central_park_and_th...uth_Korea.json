@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          112.31884057971013,
+          249.10869565217388
+        ],
+        [
+          955.7971014492754,
+          811.427536231884
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          986.2318840579711,
+          95.48550724637686
+        ],
+        [
+          1602.1739130434783,
+          1002.7318840579703
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Songdo-s_central_park_and_th...uth_Korea.jpg",
+  "imageData": null,
+  "imageHeight": 1133,
+  "imageWidth": 1700
+}

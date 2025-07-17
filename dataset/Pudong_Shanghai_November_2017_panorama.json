@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          6872.727272727273,
+          59.09090909090901
+        ],
+        [
+          10181.818181818182,
+          5022.727272727273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3909.0909090909086,
+          568.1818181818162
+        ],
+        [
+          6854.545454545455,
+          4986.363636363636
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          763.6363636363636,
+          190.909090909091
+        ],
+        [
+          3863.6363636363635,
+          4840.909090909091
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Pudong_Shanghai_November_2017_panorama.jpg",
+  "imageData": null,
+  "imageHeight": 5100,
+  "imageWidth": 10200,
+  "text": ""
+}

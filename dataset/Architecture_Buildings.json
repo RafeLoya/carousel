@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          636.0,
+          542.0
+        ],
+        [
+          2092.0,
+          2726.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2144.0,
+          740.0
+        ],
+        [
+          3400.0,
+          2624.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Architecture_Buildings.jpg",
+  "imageData": null,
+  "imageHeight": 2730,
+  "imageWidth": 4096
+}

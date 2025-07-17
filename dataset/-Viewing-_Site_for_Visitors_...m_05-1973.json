@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          617.222222222222,
+          301.111111111111
+        ],
+        [
+          1910.5555555555554,
+          1163.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          28.333333333333258,
+          1123.3333333333333
+        ],
+        [
+          1854.9999999999998,
+          2341.111111111111
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "-Viewing-_Site_for_Visitors_...m_05-1973.jpg",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 2030
+}

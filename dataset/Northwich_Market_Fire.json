@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          37.84615384615381,
+          715.1227106227102
+        ],
+        [
+          2822.4615384615386,
+          2571.5329670329666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3101.948717948718,
+          99.37179487179485
+        ],
+        [
+          5166.051282051281,
+          3195.52564102564
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Northwich_Market_Fire.jpg",
+  "imageData": null,
+  "imageHeight": 3209,
+  "imageWidth": 5568,
+  "text": ""
+}

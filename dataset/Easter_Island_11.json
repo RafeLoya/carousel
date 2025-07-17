@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1202.4210526315787,
+          103.78070175438597
+        ],
+        [
+          3157.6842105263154,
+          1407.2894736842104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1828.8275862068967,
+          1438.9137931034484
+        ],
+        [
+          3421.931034482759,
+          2500.9827586206898
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Easter_Island_11.jpg",
+  "imageData": null,
+  "imageHeight": 2633,
+  "imageWidth": 3768,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1310.6734693877552,
+          192.48979591836746
+        ],
+        [
+          2975.979591836735,
+          1302.6938775510205
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          345.36734693877554,
+          1235.3469387755101
+        ],
+        [
+          1290.2653061224491,
+          1865.2789115646258
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cyanoliseus_patagonus_-Quequ...-flying-8.jpg",
+  "imageData": null,
+  "imageHeight": 2036,
+  "imageWidth": 3054
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.210526315789593,
+          117.32456140350905
+        ],
+        [
+          1203.9473684210525,
+          913.8157894736843
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1442.1052631578948,
+          42.105263157895024
+        ],
+        [
+          2590.7894736842104,
+          1765.1315789473683
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "120303-N-BV659-098.jpg",
+  "imageData": null,
+  "imageHeight": 1800,
+  "imageWidth": 2700
+}

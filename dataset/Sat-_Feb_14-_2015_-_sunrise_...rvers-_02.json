@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1774.3333333333335,
+          458.75
+        ],
+        [
+          3545.166666666667,
+          3115.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          20.166666666666742,
+          94.16666666666652
+        ],
+        [
+          1761.8333333333335,
+          2706.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3716.0000000000005,
+          237.91666666666606
+        ],
+        [
+          4753.500000000001,
+          1794.1666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sat-_Feb_14-_2015_-_sunrise_...rvers-_02.jpg",
+  "imageData": null,
+  "imageHeight": 3205,
+  "imageWidth": 4807
+}

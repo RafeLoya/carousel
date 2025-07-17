@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          671.0,
+          406.39473684210543
+        ],
+        [
+          2597.315789473684,
+          3295.8684210526317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3171.0,
+          35.34210526315806
+        ],
+        [
+          5339.421052631578,
+          3287.9736842105253
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Saloma_link_and_KL_cityscape...25938062-.jpg",
+  "imageData": null,
+  "imageHeight": 4097,
+  "imageWidth": 6142,
+  "text": ""
+}

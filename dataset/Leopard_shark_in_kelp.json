@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1314.1304347826085,
+          45.52173913043478
+        ],
+        [
+          2256.5217391304345,
+          673.782608695652
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1195.6521739130435,
+          521.6086956521739
+        ],
+        [
+          2267.391304347828,
+          1236.1014492753616
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Leopard_shark_in_kelp.jpg",
+  "imageData": null,
+  "imageHeight": 1378,
+  "imageWidth": 2400
+}

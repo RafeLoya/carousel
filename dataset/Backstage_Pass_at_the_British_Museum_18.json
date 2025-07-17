@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          30.79245283018895,
+          723.3584905660377
+        ],
+        [
+          1177.9622641509436,
+          2444.1132075471696
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2657.2075471698117,
+          518.6415094339625
+        ],
+        [
+          3821.3584905660377,
+          2264.8679245283015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1162.8679245283022,
+          207.3207547169809
+        ],
+        [
+          2647.7735849056608,
+          2434.6792452830186
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Backstage_Pass_at_the_British_Museum_18.jpg",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 3888
+}

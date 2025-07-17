@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1206.0,
+          1611.5
+        ],
+        [
+          4161.0,
+          3581.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4906.0,
+          1818.1666666666667
+        ],
+        [
+          7521.0,
+          3561.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3384.3333333333335,
+          3.9999999999997016
+        ],
+        [
+          6171.0,
+          1861.7777777777774
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Deers_Nature_1.jpg",
+  "imageData": null,
+  "imageHeight": 5028,
+  "imageWidth": 7542,
+  "text": ""
+}

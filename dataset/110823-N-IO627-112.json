@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          73.07692307692307,
+          293.956043956044
+        ],
+        [
+          584.065934065934,
+          1060.4395604395604
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          609.3406593406592,
+          120.87912087912042
+        ],
+        [
+          1303.8461538461538,
+          1162.637362637362
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "110823-N-IO627-112.jpg",
+  "imageData": null,
+  "imageHeight": 1500,
+  "imageWidth": 2100
+}

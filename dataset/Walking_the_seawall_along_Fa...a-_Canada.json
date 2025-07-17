@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1466.0,
+          392.42857142857156
+        ],
+        [
+          4026.7142857142853,
+          2099.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          19.57142857142867,
+          805.5238095238097
+        ],
+        [
+          1451.7142857142858,
+          1760.2857142857144
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Walking_the_seawall_along_Fa...a-_Canada.jpeg",
+  "imageData": null,
+  "imageHeight": 2742,
+  "imageWidth": 4032
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          305.60344827586187,
+          354.4540229885057
+        ],
+        [
+          1791.810344827586,
+          1345.2586206896551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1367.6724137931033,
+          1341.810344827586
+        ],
+        [
+          2598.706896551724,
+          2162.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Food_court-.jpg",
+  "imageData": null,
+  "imageHeight": 3425,
+  "imageWidth": 3425
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          29.230769230769283,
+          295.88888888888914
+        ],
+        [
+          1915.128205128205,
+          1553.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1924.6341463414633,
+          42.975609756097555
+        ],
+        [
+          2739.2682926829266,
+          1264.9268292682925
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "170620-O-ZZ999-0002.jpg",
+  "imageData": null,
+  "imageHeight": 1664,
+  "imageWidth": 2820,
+  "text": ""
+}

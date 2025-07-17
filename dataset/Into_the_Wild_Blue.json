@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          751.0,
+          37.16666666666674
+        ],
+        [
+          3188.142857142857,
+          1661.9285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          79.57142857142867,
+          1112.4047619047624
+        ],
+        [
+          1533.8571428571427,
+          2081.9285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Into_the_Wild_Blue.jpg",
+  "imageData": null,
+  "imageHeight": 2201,
+  "imageWidth": 3302,
+  "text": ""
+}

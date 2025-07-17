@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          914.8421052631579,
+          202.76315789473665
+        ],
+        [
+          2043.7894736842106,
+          1896.1842105263158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          133.26315789473682,
+          1.447368421052758
+        ],
+        [
+          778.0,
+          968.5526315789474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Utica_NY.jpg",
+  "imageData": null,
+  "imageHeight": 2045,
+  "imageWidth": 2556
+}

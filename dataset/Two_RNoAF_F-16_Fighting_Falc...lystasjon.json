@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1460.0,
+          504.2777777777778
+        ],
+        [
+          3373.3333333333335,
+          1779.8333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          70.0,
+          913.1666666666665
+        ],
+        [
+          1480.0,
+          1853.1666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Two_RNoAF_F-16_Fighting_Falc...lystasjon.jpg",
+  "imageData": null,
+  "imageHeight": 2613,
+  "imageWidth": 3900
+}

@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          39.17241379310349,
+          645.4885057471264
+        ],
+        [
+          1318.4827586206898,
+          1498.3620689655172
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2435.7241379310344,
+          804.1091954022987
+        ],
+        [
+          3952.9655172413795,
+          1815.603448275862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1411.5862068965519,
+          419.0517241379307
+        ],
+        [
+          2349.5172413793107,
+          1825.9482758620688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Panorama_of_Saumur.jpg",
+  "imageData": null,
+  "imageHeight": 2645,
+  "imageWidth": 3968
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1063.5802469135801,
+          52.96296296296259
+        ],
+        [
+          2046.2962962962963,
+          1527.037037037037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          30.622651637144372,
+          100.99481123635724
+        ],
+        [
+          984.9436392914654,
+          737.2088030059045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "101030-F-2558S-074.jpg",
+  "imageData": null,
+  "imageHeight": 1680,
+  "imageWidth": 2100,
+  "text": ""
+}

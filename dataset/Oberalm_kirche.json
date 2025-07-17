@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          345.0,
+          193.3387096774195
+        ],
+        [
+          1598.225806451613,
+          2073.177419354839
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1664.3548387096773,
+          846.2956989247316
+        ],
+        [
+          3141.774193548387,
+          1831.2419354838712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Oberalm_kirche.jpg",
+  "imageData": null,
+  "imageHeight": 2127,
+  "imageWidth": 3190
+}

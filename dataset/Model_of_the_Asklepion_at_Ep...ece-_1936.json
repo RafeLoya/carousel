@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          612.6153846153846,
+          370.64102564102564
+        ],
+        [
+          1506.4615384615386,
+          966.5384615384615
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          40.30769230769238,
+          90.89743589743591
+        ],
+        [
+          708.7692307692308,
+          536.5384615384615
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Model_of_the_Asklepion_at_Ep...ece-_1936.jpg",
+  "imageData": null,
+  "imageHeight": 1010,
+  "imageWidth": 1536
+}

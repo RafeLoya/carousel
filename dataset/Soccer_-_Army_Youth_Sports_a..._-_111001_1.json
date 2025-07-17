@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          94.79411764705887,
+          20.79411764705897
+        ],
+        [
+          1550.6764705882351,
+          2204.6176470588234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1706.5588235294117,
+          197.26470588235316
+        ],
+        [
+          2894.7941176470586,
+          1979.6176470588234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Soccer_-_Army_Youth_Sports_a..._-_111001_1.jpg",
+  "imageData": null,
+  "imageHeight": 2271,
+  "imageWidth": 3419
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          14.333333333333485,
+          52.3846153846157
+        ],
+        [
+          1288.6923076923076,
+          1963.923076923077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1432.2820512820513,
+          11.358974358974379
+        ],
+        [
+          2704.076923076923,
+          1919.0512820512818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Riot_Cops_-2823225195-.jpg",
+  "imageData": null,
+  "imageHeight": 1974,
+  "imageWidth": 2962,
+  "text": ""
+}

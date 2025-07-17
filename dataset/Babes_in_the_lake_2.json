@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1451.2142857142858,
+          423.7857142857144
+        ],
+        [
+          2285.5,
+          1675.2142857142858
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          408.0000000000001,
+          423.25
+        ],
+        [
+          1273.0,
+          1720.7499999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Babes_in_the_lake_2.jpg",
+  "imageData": null,
+  "imageHeight": 1949,
+  "imageWidth": 2731,
+  "text": ""
+}

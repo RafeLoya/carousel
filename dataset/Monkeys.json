@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          227.38372093023236,
+          270.36046511627865
+        ],
+        [
+          1994.8255813953488,
+          2921.5232558139533
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2315.7558139534885,
+          35.47674418604606
+        ],
+        [
+          4297.1511627907075,
+          3007.5697674418607
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Monkeys.jpg",
+  "imageData": null,
+  "imageHeight": 3057,
+  "imageWidth": 4585
+}

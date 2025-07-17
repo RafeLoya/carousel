@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          146.1538461538462,
+          351.2820512820515
+        ],
+        [
+          1033.3333333333333,
+          1682.051282051282
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1005.1282051282052,
+          191.02564102564133
+        ],
+        [
+          2171.7948717948716,
+          1941.025641025641
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2174.358974358974,
+          469.2307692307693
+        ],
+        [
+          2969.230769230769,
+          1661.5384615384617
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Police_with_riot_shields_in_...ham-_2011.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3000
+}

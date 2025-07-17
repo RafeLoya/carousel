@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          13.35714285714289,
+          788.3928571428571
+        ],
+        [
+          645.4999999999999,
+          1209.8214285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          422.28571428571433,
+          274.10714285714295
+        ],
+        [
+          1077.6428571428569,
+          711.0119047619046
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          650.8571428571428,
+          929.4642857142858
+        ],
+        [
+          1179.4285714285716,
+          1722.321428571429
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "European_Storm_Petrel_From_T...ern_Birds.jpg",
+  "imageData": null,
+  "imageHeight": 1800,
+  "imageWidth": 1391
+}

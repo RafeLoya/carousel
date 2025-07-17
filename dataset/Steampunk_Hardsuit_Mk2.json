@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          60.144927536231876,
+          7.079710144927731
+        ],
+        [
+          807.9710144927536,
+          1128.8188405797102
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          945.6521739130434,
+          41.13768115942071
+        ],
+        [
+          1631.1594202898548,
+          1069.3985507246377
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Steampunk_Hardsuit_Mk2.jpg",
+  "imageData": null,
+  "imageHeight": 1133,
+  "imageWidth": 1700
+}

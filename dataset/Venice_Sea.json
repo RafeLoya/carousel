@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2164.5714285714284,
+          930.3492063492067
+        ],
+        [
+          5469.333333333333,
+          3133.5238095238096
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2.666666666666515,
+          1650.9841269841274
+        ],
+        [
+          2140.7619047619046,
+          3076.3809523809527
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Venice_Sea.jpg",
+  "imageData": null,
+  "imageHeight": 3648,
+  "imageWidth": 5472
+}

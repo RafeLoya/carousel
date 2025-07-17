@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1698.871794871795,
+          144.87179487179492
+        ],
+        [
+          2855.2820512820513,
+          1879.4871794871794
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          6.564102564102715,
+          201.28205128205127
+        ],
+        [
+          1691.179487179487,
+          1324.3589743589741
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sikh_pilgrim_at_the_Golden_T...ar-_India.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3008,
+  "text": ""
+}

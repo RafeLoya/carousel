@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3256.5714285714284,
+          1108.1904761904761
+        ],
+        [
+          5610.857142857143,
+          2677.714285714286
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          813.714285714286,
+          106.2857142857144
+        ],
+        [
+          2799.428571428571,
+          3084.8571428571418
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Old_Kiev_-8166191334-.jpg",
+  "imageData": null,
+  "imageHeight": 3744,
+  "imageWidth": 5616
+}

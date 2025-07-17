@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          4.205607476635578,
+          50.55140186915878
+        ],
+        [
+          712.6168224299066,
+          1113.1682242990653
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          666.8224299065422,
+          12.233644859813353
+        ],
+        [
+          1197.6635514018692,
+          808.4953271028038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1207.943925233645,
+          57.09345794392539
+        ],
+        [
+          1895.7943925233644,
+          1088.8691588785045
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2013_UCI_Road_World_Champion...podium_2-.jpg",
+  "imageData": null,
+  "imageHeight": 1274,
+  "imageWidth": 1900
+}

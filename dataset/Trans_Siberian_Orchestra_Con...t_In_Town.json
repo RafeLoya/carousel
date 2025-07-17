@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1188.941176470588,
+          1054.9411764705878
+        ],
+        [
+          2724.235294117647,
+          2078.4705882352937
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.529411764705884,
+          1109.843137254902
+        ],
+        [
+          1180.1176470588234,
+          1890.235294117647
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Trans_Siberian_Orchestra_Con...t_In_Town.jpg",
+  "imageData": null,
+  "imageHeight": 2304,
+  "imageWidth": 3072
+}

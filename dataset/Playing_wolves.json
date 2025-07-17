@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1444.8333333333335,
+          122.66666666666663
+        ],
+        [
+          4190.666666666667,
+          1953.2222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          240.66666666666652,
+          108.08333333333303
+        ],
+        [
+          1461.5,
+          1939.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Playing_wolves.jpg",
+  "imageData": null,
+  "imageHeight": 2187,
+  "imageWidth": 4723
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          988.8148148148148,
+          416.20987654320993
+        ],
+        [
+          1996.2222222222222,
+          1087.8148148148148
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          235.1111111111112,
+          31.33333333333336
+        ],
+        [
+          983.2592592592594,
+          1153.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "RobertKafarski_Toronto_CityScape_2003.jpg",
+  "imageData": null,
+  "imageHeight": 1446,
+  "imageWidth": 2048,
+  "text": ""
+}

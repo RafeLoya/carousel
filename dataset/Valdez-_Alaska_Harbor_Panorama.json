@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          5152.857142857143,
+          52.642857142857565
+        ],
+        [
+          7595.714285714285,
+          1681.2142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2038.571428571429,
+          214.5476190476195
+        ],
+        [
+          4131.428571428572,
+          1609.7857142857144
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Valdez-_Alaska_Harbor_Panorama.jpg",
+  "imageData": null,
+  "imageHeight": 1691,
+  "imageWidth": 8320
+}

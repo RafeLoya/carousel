@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1133.076923076923,
+          363.07692307692287
+        ],
+        [
+          2859.2307692307695,
+          1513.8461538461538
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          165.3846153846154,
+          1244.1025641025644
+        ],
+        [
+          1308.4615384615383,
+          2006.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          159.23076923076923,
+          140.0
+        ],
+        [
+          1186.923076923077,
+          825.1282051282051
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "170716-F-QP401-075.jpg",
+  "imageData": null,
+  "imageHeight": 2100,
+  "imageWidth": 3300
+}

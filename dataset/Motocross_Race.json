@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          79.79797979797979,
+          12.459595959596072
+        ],
+        [
+          870.7070707070707,
+          1198.8232323232323
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          817.1717171717171,
+          240.74242424242402
+        ],
+        [
+          1450.5050505050506,
+          1190.7424242424242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1396.969696969697,
+          676.9377104377104
+        ],
+        [
+          1997.9797979797981,
+          1077.611111111111
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Motocross_Race.jpg",
+  "imageData": null,
+  "imageHeight": 1333,
+  "imageWidth": 2000
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          306.8170731707319,
+          280.8780487804878
+        ],
+        [
+          1587.3048780487807,
+          1134.5365853658536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1775.109756097561,
+          482.50406504065063
+        ],
+        [
+          3579.987804878049,
+          1685.7560975609756
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          43.2500000000001,
+          1146.3125
+        ],
+        [
+          1352.625,
+          2019.2291666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Dolphins.jpg",
+  "imageData": null,
+  "imageHeight": 2452,
+  "imageWidth": 3599,
+  "text": ""
+}

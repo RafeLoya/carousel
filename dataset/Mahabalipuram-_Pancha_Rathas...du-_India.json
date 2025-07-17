@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          130.28571428571445,
+          283.79591836734676
+        ],
+        [
+          1279.2653061224491,
+          2007.265306122449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1284.9655172413793,
+          73.31034482758618
+        ],
+        [
+          4019.4482758620697,
+          1896.298850574713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mahabalipuram-_Pancha_Rathas...du-_India.jpg",
+  "imageData": null,
+  "imageHeight": 2688,
+  "imageWidth": 4032,
+  "text": ""
+}

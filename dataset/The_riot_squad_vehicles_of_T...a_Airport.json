@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2196.0,
+          256.00000000000006
+        ],
+        [
+          3566.0,
+          2311.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          5.999999999999847,
+          826.0
+        ],
+        [
+          2196.0,
+          2286.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "The_riot_squad_vehicles_of_T...a_Airport.jpg",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 3872
+}

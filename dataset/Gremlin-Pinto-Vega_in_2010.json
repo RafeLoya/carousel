@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2063.8888888888887,
+          182.87037037037055
+        ],
+        [
+          3029.1666666666665,
+          826.388888888889
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1068.0555555555554,
+          192.12962962962956
+        ],
+        [
+          2102.777777777778,
+          881.9444444444445
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          0.0,
+          159.7222222222224
+        ],
+        [
+          1216.6666666666665,
+          970.8333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Gremlin-Pinto-Vega_in_2010.jpg",
+  "imageData": null,
+  "imageHeight": 1100,
+  "imageWidth": 3050
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          46.44444444444457,
+          1310.3086419753088
+        ],
+        [
+          1666.814814814815,
+          2390.5555555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          152.0,
+          55.161290322580726
+        ],
+        [
+          1603.6129032258063,
+          1022.9032258064516
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Bees_Insects.jpg",
+  "imageData": null,
+  "imageHeight": 2520,
+  "imageWidth": 1704,
+  "text": ""
+}

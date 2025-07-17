@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1043.8571428571431,
+          269.7142857142853
+        ],
+        [
+          4097.428571428572,
+          4850.071428571428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4165.285714285715,
+          1682.2142857142862
+        ],
+        [
+          7283.142857142857,
+          3760.785714285714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Awesome_Ship_in_Sydney_Harbor.jpg",
+  "imageData": null,
+  "imageHeight": 4868,
+  "imageWidth": 7302
+}

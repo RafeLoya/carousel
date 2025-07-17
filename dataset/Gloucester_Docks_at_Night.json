@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2800.1538461538457,
+          274.7051282051284
+        ],
+        [
+          4200.153846153846,
+          1208.0384615384617
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          873.230769230769,
+          60.602564102564656
+        ],
+        [
+          2686.692307692307,
+          1269.5769230769233
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Gloucester_Docks_at_Night.jpeg",
+  "imageData": null,
+  "imageHeight": 2243,
+  "imageWidth": 4208
+}

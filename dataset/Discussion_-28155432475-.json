@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2039.0,
+          28.224137931034296
+        ],
+        [
+          3652.793103448276,
+          2448.9137931034484
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          498.090909090909,
+          15.136363636363555
+        ],
+        [
+          2025.3636363636363,
+          2306.0454545454545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Discussion_-28155432475-.jpg",
+  "imageData": null,
+  "imageHeight": 3453,
+  "imageWidth": 4078,
+  "text": ""
+}

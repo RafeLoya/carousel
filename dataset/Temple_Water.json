@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1188.5,
+          916.666666666667
+        ],
+        [
+          4598.5,
+          3190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4628.5,
+          326.66666666666697
+        ],
+        [
+          8908.5,
+          3180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Temple_Water.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 11017
+}

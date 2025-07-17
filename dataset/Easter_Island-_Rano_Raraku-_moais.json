@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          430.2857142857143,
+          639.7142857142858
+        ],
+        [
+          1698.8571428571427,
+          2542.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2087.8518518518517,
+          36.96296296296303
+        ],
+        [
+          3898.962962962963,
+          2753.62962962963
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Easter_Island-_Rano_Raraku-_moais.jpg",
+  "imageData": null,
+  "imageHeight": 2848,
+  "imageWidth": 4272,
+  "text": ""
+}

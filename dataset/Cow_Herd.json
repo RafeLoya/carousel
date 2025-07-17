@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2925.285714285714,
+          665.4047619047619
+        ],
+        [
+          5457.428571428571,
+          2353.4999999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          18.142857142857295,
+          929.6904761904759
+        ],
+        [
+          2850.285714285714,
+          2817.7857142857138
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cow_Herd.jpg",
+  "imageData": null,
+  "imageHeight": 2882,
+  "imageWidth": 5472
+}

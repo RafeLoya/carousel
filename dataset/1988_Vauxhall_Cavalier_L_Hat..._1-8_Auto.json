@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2006.8333333333335,
+          722.9583333333335
+        ],
+        [
+          4263.083333333334,
+          2227.1250000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          98.5,
+          703.5138888888896
+        ],
+        [
+          2496.4166666666665,
+          2302.1250000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1988_Vauxhall_Cavalier_L_Hat..._1-8_Auto.jpg",
+  "imageData": null,
+  "imageHeight": 2848,
+  "imageWidth": 4272,
+  "text": ""
+}

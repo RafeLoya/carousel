@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          705.4814814814813,
+          8.444444444444756
+        ],
+        [
+          3624.0,
+          1954.1234567901238
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          457.33333333333303,
+          2047.333333333333
+        ],
+        [
+          2238.814814814815,
+          4719.555555555556
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mountain_Highland.jpg",
+  "imageData": null,
+  "imageHeight": 4728,
+  "imageWidth": 3648
+}

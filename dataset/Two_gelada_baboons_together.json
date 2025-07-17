@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          568.3571428571429,
+          117.00000000000023
+        ],
+        [
+          1968.357142857143,
+          2217.000000000002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1964.7857142857144,
+          92.00000000000045
+        ],
+        [
+          3925.5,
+          1399.1428571428573
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Two_gelada_baboons_together.jpg",
+  "imageData": null,
+  "imageHeight": 2734,
+  "imageWidth": 4101
+}

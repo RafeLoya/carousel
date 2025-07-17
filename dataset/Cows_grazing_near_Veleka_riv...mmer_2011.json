@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1848.390243902439,
+          461.9349593495933
+        ],
+        [
+          2992.2926829268295,
+          1224.5365853658536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          577.6585365853659,
+          683.8861788617887
+        ],
+        [
+          1684.9756097560974,
+          1422.0975609756097
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cows_grazing_near_Veleka_riv...mmer_2011.jpg",
+  "imageData": null,
+  "imageHeight": 2432,
+  "imageWidth": 3648
+}

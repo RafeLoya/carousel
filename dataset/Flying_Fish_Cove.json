@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2498.857142857143,
+          1346.6428571428576
+        ],
+        [
+          4095.285714285714,
+          2410.9285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2545.2857142857147,
+          581.166666666667
+        ],
+        [
+          3913.1428571428573,
+          1493.0714285714287
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Flying_Fish_Cove.jpg",
+  "imageData": null,
+  "imageHeight": 2454,
+  "imageWidth": 5462
+}

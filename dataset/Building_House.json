@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2438.222222222222,
+          1300.518518518518
+        ],
+        [
+          4013.7777777777783,
+          2350.8888888888887
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.333333333333485,
+          1422.0
+        ],
+        [
+          2389.3333333333335,
+          3008.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          300.44444444444457,
+          67.18518518518499
+        ],
+        [
+          2209.3333333333335,
+          1339.7777777777776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Building_House.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 4032,
+  "text": ""
+}

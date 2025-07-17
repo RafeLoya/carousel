@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          369.4285714285716,
+          557.1428571428573
+        ],
+        [
+          1933.7142857142856,
+          1600.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1951.5714285714284,
+          532.1428571428573
+        ],
+        [
+          3448.0,
+          1529.761904761905
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sea_Beach.jpg",
+  "imageData": null,
+  "imageHeight": 2150,
+  "imageWidth": 4096
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          14.1363636363638,
+          14.363636363636374
+        ],
+        [
+          1623.2272727272727,
+          1087.090909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1962.2241379310346,
+          5.2413793103448825
+        ],
+        [
+          3410.5,
+          970.7586206896551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Munich_Olympiapark.jpg",
+  "imageData": null,
+  "imageHeight": 1276,
+  "imageWidth": 4021,
+  "text": ""
+}

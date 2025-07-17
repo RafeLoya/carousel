@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          34.56521739130429,
+          36.978260869565474
+        ],
+        [
+          1125.869565217391,
+          1673.9347826086955
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1362.8260869565215,
+          388.42753623188406
+        ],
+        [
+          2019.3478260869563,
+          826.1086956521739
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1295.4347826086955,
+          1167.413043478261
+        ],
+        [
+          2045.4347826086953,
+          1667.4130434782608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sankt_gilgen_bootsanleger.jpg",
+  "imageData": null,
+  "imageHeight": 1687,
+  "imageWidth": 2230
+}

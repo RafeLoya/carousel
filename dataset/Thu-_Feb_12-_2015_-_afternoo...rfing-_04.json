@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          921.2222222222222,
+          595.6296296296296
+        ],
+        [
+          2563.4444444444443,
+          1690.4444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          16.777777777777928,
+          572.6666666666666
+        ],
+        [
+          572.3333333333334,
+          1405.9999999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Thu-_Feb_12-_2015_-_afternoo...rfing-_04.jpg",
+  "imageData": null,
+  "imageHeight": 1732,
+  "imageWidth": 2598
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          998.6666666666669,
+          1062.8571428571431
+        ],
+        [
+          3127.2380952380954,
+          2481.904761904762
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3884.3809523809527,
+          686.6666666666666
+        ],
+        [
+          5427.238095238095,
+          1715.238095238095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sailing_yachts_near_the_cave...d-_Greece.jpg",
+  "imageData": null,
+  "imageHeight": 3640,
+  "imageWidth": 5464
+}

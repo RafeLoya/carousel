@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          15.857142857143046,
+          682.0238095238096
+        ],
+        [
+          2123.0,
+          2086.785714285714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2376.5714285714284,
+          757.0238095238092
+        ],
+        [
+          4055.1428571428573,
+          1876.0714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Putin_and_Macron_meeting_wit...rge_table.jpg",
+  "imageData": null,
+  "imageHeight": 2595,
+  "imageWidth": 4096
+}

@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          6.666666666666667,
+          421.6666666666667
+        ],
+        [
+          1250.0,
+          2286.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2420.0000000000005,
+          263.33333333333337
+        ],
+        [
+          3880.0000000000005,
+          2453.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1006.6666666666667,
+          780.0
+        ],
+        [
+          2393.3333333333335,
+          1704.4444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Role_playing_gamers.jpg",
+  "imageData": null,
+  "imageHeight": 2510,
+  "imageWidth": 3900,
+  "text": ""
+}

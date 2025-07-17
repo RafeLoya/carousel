@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1234.5851063829787,
+          580.3368794326243
+        ],
+        [
+          4083.5212765957444,
+          2479.627659574468
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          57.98936170212778,
+          551.9680851063831
+        ],
+        [
+          1330.3297872340427,
+          2460.4787234042556
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Happy_children.jpg",
+  "imageData": null,
+  "imageHeight": 2755,
+  "imageWidth": 4133
+}

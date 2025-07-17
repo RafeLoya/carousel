@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2173.3333333333335,
+          21.000000000000036
+        ],
+        [
+          3810.0000000000005,
+          2476.0000000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          10.0,
+          1317.6666666666667
+        ],
+        [
+          1860.0,
+          2551.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1043.3333333333333,
+          19.33333333333337
+        ],
+        [
+          2176.666666666667,
+          1719.333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Saloma_Bridge_-49574882332-.jpg",
+  "imageData": null,
+  "imageHeight": 2562,
+  "imageWidth": 3840,
+  "text": ""
+}

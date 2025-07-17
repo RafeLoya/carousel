@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          495.69047619047615,
+          124.9047619047617
+        ],
+        [
+          1624.2619047619048,
+          1817.7619047619048
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1629.0238095238094,
+          183.23809523809518
+        ],
+        [
+          2717.1190476190477,
+          1815.3809523809525
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "UCSB_Family_Vacation_Center-17.jpg",
+  "imageData": null,
+  "imageHeight": 1826,
+  "imageWidth": 2739
+}

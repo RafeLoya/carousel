@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          448.740740740741,
+          78.7901234567903
+        ],
+        [
+          2919.1111111111113,
+          1725.703703703704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          763.0000000000001,
+          1659.5000000000002
+        ],
+        [
+          3433.0,
+          3439.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Elephants_Africa.jpg",
+  "imageData": null,
+  "imageHeight": 3744,
+  "imageWidth": 5616,
+  "text": ""
+}

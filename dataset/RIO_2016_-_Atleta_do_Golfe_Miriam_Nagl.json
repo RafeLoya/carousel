@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          440.9090909090909,
+          374.8484848484843
+        ],
+        [
+          1671.2121212121215,
+          2220.30303030303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1674.2424242424242,
+          235.4545454545455
+        ],
+        [
+          3068.181818181818,
+          2326.363636363636
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "RIO_2016_-_Atleta_do_Golfe_Miriam_Nagl.jpg",
+  "imageData": null,
+  "imageHeight": 2380,
+  "imageWidth": 3500
+}

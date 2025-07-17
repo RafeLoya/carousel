@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          146.49999999999994,
+          219.09523809523807
+        ],
+        [
+          1601.2619047619048,
+          1188.936507936508
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1427.452380952381,
+          717.9047619047619
+        ],
+        [
+          2646.5,
+          1530.6031746031745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Skydiving-.jpg",
+  "imageData": null,
+  "imageHeight": 1862,
+  "imageWidth": 2793,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          186.909090909091,
+          278.378787878788
+        ],
+        [
+          2952.818181818182,
+          2122.318181818182
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2866.4545454545455,
+          627.9999999999993
+        ],
+        [
+          4050.545454545455,
+          2404.1363636363635
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Airfield_Farm_-_House_-_Goats.jpg",
+  "imageData": null,
+  "imageHeight": 3056,
+  "imageWidth": 4592
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          709.818181818182,
+          86.34343434343509
+        ],
+        [
+          2385.575757575757,
+          1203.5151515151517
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          609.818181818182,
+          1306.5454545454545
+        ],
+        [
+          2091.6363636363635,
+          2294.424242424242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Plitvice_Lakes_National_Park_-2-.jpg",
+  "imageData": null,
+  "imageHeight": 2304,
+  "imageWidth": 3456
+}

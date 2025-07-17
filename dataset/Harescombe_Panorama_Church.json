@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2203.9999999999995,
+          552.4761904761906
+        ],
+        [
+          3911.1428571428564,
+          1690.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          10.034482758620584,
+          67.17241379310332
+        ],
+        [
+          2582.4482758620693,
+          1782.1149425287358
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Harescombe_Panorama_Church.jpg",
+  "imageData": null,
+  "imageHeight": 1924,
+  "imageWidth": 3958,
+  "text": ""
+}

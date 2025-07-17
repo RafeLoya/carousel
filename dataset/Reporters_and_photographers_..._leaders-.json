@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          967.2413793103449,
+          323.39655172413796
+        ],
+        [
+          1993.1034482758623,
+          1006.1551724137933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          291.37931034482756,
+          2.7068965517240713
+        ],
+        [
+          963.7931034482759,
+          1011.3275862068966
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Reporters_and_photographers_..._leaders-.jpg",
+  "imageData": null,
+  "imageHeight": 1333,
+  "imageWidth": 2000
+}

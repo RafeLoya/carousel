@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1101.5000000000002,
+          595.452380952381
+        ],
+        [
+          2788.6428571428573,
+          1720.2142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          516.6351351351351,
+          17.878378378378414
+        ],
+        [
+          2297.7162162162163,
+          1205.2657657657658
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ala_23_Instrucción_de_caza_y...03889761-.jpg",
+  "imageData": null,
+  "imageHeight": 1779,
+  "imageWidth": 3163,
+  "text": ""
+}

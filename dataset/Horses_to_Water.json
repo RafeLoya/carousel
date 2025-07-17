@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2358.8679245283015,
+          146.20754716981133
+        ],
+        [
+          3409.8113207547167,
+          1722.622641509434
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          394.8387096774193,
+          207.73118279569894
+        ],
+        [
+          2404.516129032258,
+          1547.516129032258
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Horses_to_Water.jpg",
+  "imageData": null,
+  "imageHeight": 2466,
+  "imageWidth": 3480,
+  "text": ""
+}

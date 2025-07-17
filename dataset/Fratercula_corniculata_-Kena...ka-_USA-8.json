@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          366.0,
+          451.5
+        ],
+        [
+          1288.3880597014925,
+          1066.4253731343283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1286.8955223880596,
+          666.9228855721393
+        ],
+        [
+          2157.0447761194027,
+          1247.0223880597014
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Fratercula_corniculata_-Kena...ka-_USA-8.jpg",
+  "imageData": null,
+  "imageHeight": 1403,
+  "imageWidth": 2332
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          13.648648648648305,
+          1428.6351351351354
+        ],
+        [
+          2778.5135135135133,
+          3271.878378378379
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2827.162162162162,
+          1487.193693693694
+        ],
+        [
+          5500.135135135135,
+          3269.175675675676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2016-02_Eurostar_trains.jpg",
+  "imageData": null,
+  "imageHeight": 3687,
+  "imageWidth": 5530
+}

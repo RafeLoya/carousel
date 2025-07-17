@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1110.5,
+          630.0
+        ],
+        [
+          4198.0,
+          2688.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          173.0000000000001,
+          223.75000000000023
+        ],
+        [
+          1135.5,
+          1667.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg",
+  "imageData": null,
+  "imageHeight": 3270,
+  "imageWidth": 4501
+}

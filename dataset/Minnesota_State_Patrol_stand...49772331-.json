@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          39.26315789473671,
+          480.5789473684208
+        ],
+        [
+          1931.3684210526317,
+          3318.7368421052633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1560.3157894736842,
+          476.63157894736787
+        ],
+        [
+          3470.842105263158,
+          3342.4210526315783
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3105.052631578947,
+          304.26315789473665
+        ],
+        [
+          5118.210526315788,
+          3324.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Minnesota_State_Patrol_stand...49772331-.jpg",
+  "imageData": null,
+  "imageHeight": 3448,
+  "imageWidth": 5168
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2177.1228070175443,
+          708.1403508771931
+        ],
+        [
+          3450.8070175438597,
+          1557.2631578947367
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          719.228070175439,
+          308.1403508771931
+        ],
+        [
+          2182.3859649122805,
+          1283.5789473684213
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Millwall_Dock.jpg",
+  "imageData": null,
+  "imageHeight": 2304,
+  "imageWidth": 3456
+}

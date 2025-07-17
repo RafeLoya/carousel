@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2759.4594594594596,
+          1178.0405405405406
+        ],
+        [
+          5913.513513513514,
+          3280.7432432432433
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          16.216216216216218,
+          23.986486486486513
+        ],
+        [
+          2727.027027027027,
+          1831.1936936936936
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cats_on_the_roof.jpg",
+  "imageData": null,
+  "imageHeight": 3375,
+  "imageWidth": 6000
+}

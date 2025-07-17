@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2195.5517241379307,
+          785.4942528735628
+        ],
+        [
+          4557.620689655173,
+          2360.206896551724
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1223.1379310344826,
+          594.689655172414
+        ],
+        [
+          2216.2413793103447,
+          2084.344827586207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          12.63636363636374,
+          244.45454545454558
+        ],
+        [
+          1185.3636363636365,
+          2003.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cityscape_of_Rovinj_at_sunset.jpg",
+  "imageData": null,
+  "imageHeight": 3448,
+  "imageWidth": 4598,
+  "text": ""
+}

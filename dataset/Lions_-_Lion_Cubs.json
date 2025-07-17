@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1246.2735849056605,
+          28.500000000000036
+        ],
+        [
+          3174.5754716981132,
+          1314.0345911949685
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          13.467741935483723,
+          836.5645161290322
+        ],
+        [
+          2368.3064516129034,
+          2406.456989247312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Lions_-_Lion_Cubs.jpg",
+  "imageData": null,
+  "imageHeight": 2457,
+  "imageWidth": 3685,
+  "text": ""
+}

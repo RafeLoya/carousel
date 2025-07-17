@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1829.7142857142856,
+          231.57142857142864
+        ],
+        [
+          4083.2857142857138,
+          1733.952380952381
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          133.28571428571445,
+          735.1428571428572
+        ],
+        [
+          2086.857142857143,
+          2037.5238095238096
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Panorama_of_Malbork_Castle-_part_4.jpg",
+  "imageData": null,
+  "imageHeight": 2706,
+  "imageWidth": 4138
+}

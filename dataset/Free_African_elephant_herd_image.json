@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          31.15384615384619,
+          455.2692307692307
+        ],
+        [
+          829.2307692307693,
+          1652.3846153846155
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1763.846153846154,
+          645.3333333333334
+        ],
+        [
+          3011.9230769230767,
+          1477.3846153846152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          673.4615384615383,
+          703.6666666666667
+        ],
+        [
+          1871.5384615384617,
+          1502.3846153846157
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Free_African_elephant_herd_image.jpg",
+  "imageData": null,
+  "imageHeight": 1699,
+  "imageWidth": 3020
+}

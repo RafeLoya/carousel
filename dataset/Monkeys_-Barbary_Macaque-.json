@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          608.1818181818182,
+          55.00000000000023
+        ],
+        [
+          1190.9090909090908,
+          929.090909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          16.923076923076906,
+          97.6923076923077
+        ],
+        [
+          656.9230769230769,
+          1057.6923076923076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Monkeys_-Barbary_Macaque-.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1200,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          11.039215686274588,
+          325.6568627450979
+        ],
+        [
+          1114.9607843137255,
+          1981.5392156862745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1046.333333333333,
+          21.7352941176473
+        ],
+        [
+          2393.3921568627447,
+          2042.3235294117649
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Jumping_Over_The_3rd_Largest...The_World.jpg",
+  "imageData": null,
+  "imageHeight": 2567,
+  "imageWidth": 2426
+}

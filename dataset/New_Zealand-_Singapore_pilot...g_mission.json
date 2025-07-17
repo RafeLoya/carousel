@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4.7213114754097205,
+          427.5628415300548
+        ],
+        [
+          1624.393442622951,
+          1507.3442622950822
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1577.4444444444443,
+          299.94444444444434
+        ],
+        [
+          2524.6666666666665,
+          1720.7777777777776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "New_Zealand-_Singapore_pilot...g_mission.jpg",
+  "imageData": null,
+  "imageHeight": 2136,
+  "imageWidth": 3216,
+  "text": ""
+}

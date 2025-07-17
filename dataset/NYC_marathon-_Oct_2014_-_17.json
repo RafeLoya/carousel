@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          8.623287671232816,
+          29.11643835616438
+        ],
+        [
+          1142.8698630136987,
+          1730.486301369863
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1373.0068493150684,
+          14.047945205479445
+        ],
+        [
+          2551.08904109589,
+          1781.1712328767119
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "NYC_marathon-_Oct_2014_-_17.jpg",
+  "imageData": null,
+  "imageHeight": 1787,
+  "imageWidth": 2683
+}

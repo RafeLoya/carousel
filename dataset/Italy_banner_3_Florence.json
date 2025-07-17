@@ -1,0 +1,79 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2924.392156862745,
+          16.95751633986913
+        ],
+        [
+          3749.8823529411766,
+          567.28431372549
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1773.62962962963,
+          17.393246187363843
+        ],
+        [
+          2550.1002178649237,
+          535.0403050108929
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1026.3529411764707,
+          23.49346405228755
+        ],
+        [
+          1742.0392156862747,
+          500.61764705882354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          53.80392156862756,
+          50.2908496732025
+        ],
+        [
+          779.294117647059,
+          533.9509803921568
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Italy_banner_3_Florence.jpg",
+  "imageData": null,
+  "imageHeight": 613,
+  "imageWidth": 4288,
+  "text": ""
+}

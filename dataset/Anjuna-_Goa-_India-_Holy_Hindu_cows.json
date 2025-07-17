@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          453.9310344827586,
+          45.72413793103445
+        ],
+        [
+          2184.9655172413795,
+          2642.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2078.0689655172414,
+          369.86206896551727
+        ],
+        [
+          4019.4482758620693,
+          1664.1149425287358
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Anjuna-_Goa-_India-_Holy_Hindu_cows.jpg",
+  "imageData": null,
+  "imageHeight": 2688,
+  "imageWidth": 4032,
+  "text": ""
+}

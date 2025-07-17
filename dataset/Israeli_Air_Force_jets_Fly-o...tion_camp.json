@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          692.7835051546393,
+          225.86082474226822
+        ],
+        [
+          1348.4536082474228,
+          662.9742268041239
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          228.86597938144342,
+          743.3865979381444
+        ],
+        [
+          1108.2474226804106,
+          1329.6408934707906
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Israeli_Air_Force_jets_Fly-o...tion_camp.jpg",
+  "imageData": null,
+  "imageHeight": 1361,
+  "imageWidth": 2000
+}

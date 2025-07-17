@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3384.4102564102564,
+          298.8076923076922
+        ],
+        [
+          5389.538461538462,
+          1635.559829059829
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          694.6666666666669,
+          350.0897435897435
+        ],
+        [
+          2207.487179487179,
+          1358.6367521367515
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1_Las_vegas_strip.jpg",
+  "imageData": null,
+  "imageHeight": 2713,
+  "imageWidth": 5656
+}

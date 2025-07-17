@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          442.5925925925926,
+          1399.1975308641981
+        ],
+        [
+          1740.7407407407404,
+          2264.62962962963
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          198.14814814814804,
+          203.5185185185187
+        ],
+        [
+          1024.074074074074,
+          1442.4074074074074
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "100314-N-0120A-081.jpg",
+  "imageData": null,
+  "imageHeight": 2520,
+  "imageWidth": 1800
+}

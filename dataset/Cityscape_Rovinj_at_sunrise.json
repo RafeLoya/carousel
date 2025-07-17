@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1751.3571428571427,
+          236.76190476190504
+        ],
+        [
+          3582.7857142857138,
+          1457.7142857142858
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          54.21428571428578,
+          956.7619047619046
+        ],
+        [
+          1722.7857142857142,
+          2069.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cityscape_Rovinj_at_sunrise.jpg",
+  "imageData": null,
+  "imageHeight": 2484,
+  "imageWidth": 4417
+}

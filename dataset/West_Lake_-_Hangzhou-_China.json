@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          70.18181818181847,
+          250.8282828282829
+        ],
+        [
+          1864.1212121212122,
+          1446.7878787878788
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1982.3030303030305,
+          52.848484848484986
+        ],
+        [
+          3200.4848484848485,
+          1880.121212121212
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "West_Lake_-_Hangzhou-_China.jpg",
+  "imageData": null,
+  "imageHeight": 2336,
+  "imageWidth": 3504
+}

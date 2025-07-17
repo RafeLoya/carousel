@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          44.06557377049171,
+          1025.9234972677596
+        ],
+        [
+          1540.7868852459017,
+          2023.737704918033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1583.4098360655737,
+          860.8961748633884
+        ],
+        [
+          2998.1639344262294,
+          1804.0655737704922
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Ketam_Mountain_Bike_Park_at_Pulau_Ubin.jpg",
+  "imageData": null,
+  "imageHeight": 2136,
+  "imageWidth": 3216
+}

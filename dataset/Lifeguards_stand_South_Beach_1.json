@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          161.50000000000006,
+          772.0
+        ],
+        [
+          2824.0,
+          2547.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3119.0,
+          1477.8333333333335
+        ],
+        [
+          4764.0,
+          2574.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Lifeguards_stand_South_Beach_1.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 4928
+}

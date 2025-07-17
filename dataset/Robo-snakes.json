@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          16.69565217391306,
+          -2.0
+        ],
+        [
+          1138.4347826086955,
+          1680.6086956521738
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1160.173913043478,
+          91.47826086956479
+        ],
+        [
+          1908.0,
+          1213.2173913043478
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Robo-snakes.jpg",
+  "imageData": null,
+  "imageHeight": 1696,
+  "imageWidth": 1916
+}

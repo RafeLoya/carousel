@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2971.1551724137935,
+          1502.034482758621
+        ],
+        [
+          4915.98275862069,
+          2798.586206896552
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          26.327586206896513,
+          1172.1494252873567
+        ],
+        [
+          3422.879310344828,
+          3436.5172413793107
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Elephant_Africa.jpg",
+  "imageData": null,
+  "imageHeight": 3442,
+  "imageWidth": 5163
+}

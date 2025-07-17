@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          8.0,
+          143.0
+        ],
+        [
+          1084.0,
+          1757.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1106.0,
+          447.0
+        ],
+        [
+          1974.0,
+          1749.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2020.0,
+          369.0
+        ],
+        [
+          2956.0,
+          1773.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Free_Prambanan_Temple_image.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3008
+}

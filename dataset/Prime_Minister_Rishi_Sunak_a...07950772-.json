@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2480.5,
+          950.125
+        ],
+        [
+          4799.25,
+          4428.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          4811.75,
+          868.875
+        ],
+        [
+          7068.0,
+          4253.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          74.24999999999997,
+          943.8749999999999
+        ],
+        [
+          2443.0,
+          4497.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Prime_Minister_Rishi_Sunak_a...07950772-.jpg",
+  "imageData": null,
+  "imageHeight": 4744,
+  "imageWidth": 7111,
+  "text": ""
+}

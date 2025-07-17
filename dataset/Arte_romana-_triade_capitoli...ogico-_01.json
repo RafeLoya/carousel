@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          91.78260869565224,
+          15.652173913043725
+        ],
+        [
+          1372.2173913043478,
+          1936.304347826087
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1404.8260869565217,
+          114.56521739130403
+        ],
+        [
+          2639.608695652174,
+          1966.7391304347825
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2652.652173913043,
+          97.17391304347848
+        ],
+        [
+          3961.347826086956,
+          2060.217391304348
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Arte_romana-_triade_capitoli...ogico-_01.jpg",
+  "imageData": null,
+  "imageHeight": 2940,
+  "imageWidth": 4014
+}

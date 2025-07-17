@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2555.188524590164,
+          14.221311475409948
+        ],
+        [
+          3324.0409836065573,
+          1167.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          7.928571428571688,
+          18.92857142857159
+        ],
+        [
+          1199.357142857143,
+          1806.0714285714282
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1199.357142857143,
+          47.500000000000156
+        ],
+        [
+          2576.5,
+          2116.0714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20191002_Fußball-_Männer-_UE...tP_0043-2.jpg",
+  "imageData": null,
+  "imageHeight": 2235,
+  "imageWidth": 3353,
+  "text": ""
+}

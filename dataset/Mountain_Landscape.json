@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          70.00000000000011,
+          1179.768115942029
+        ],
+        [
+          1813.478260869565,
+          2342.086956521739
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1837.3913043478262,
+          861.652173913043
+        ],
+        [
+          3878.6956521739135,
+          2222.5217391304345
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mountain_Landscape.jpg",
+  "imageData": null,
+  "imageHeight": 2832,
+  "imageWidth": 4240
+}

@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2858.772727272727,
+          1389.0
+        ],
+        [
+          4326.954545454546,
+          2367.787878787879
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1549.6818181818178,
+          342.0303030303029
+        ],
+        [
+          2445.1363636363635,
+          939.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1986.0454545454543,
+          435.96969696969677
+        ],
+        [
+          3395.1363636363635,
+          1375.3636363636363
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sea_Ocean.jpg",
+  "imageData": null,
+  "imageHeight": 2978,
+  "imageWidth": 5263
+}

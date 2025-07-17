@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1566.9166666666665,
+          1748.652777777778
+        ],
+        [
+          3200.25,
+          2837.541666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1927.3333333333335,
+          413.2361111111113
+        ],
+        [
+          3910.6666666666665,
+          1735.4583333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "140614-A-LI860-450.jpg",
+  "imageData": null,
+  "imageHeight": 2848,
+  "imageWidth": 4288
+}

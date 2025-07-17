@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          164.57142857142867,
+          710.0000000000002
+        ],
+        [
+          1578.8571428571427,
+          1652.857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2527.428571428571,
+          613.8095238095243
+        ],
+        [
+          4098.857142857142,
+          1661.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1664.5714285714284,
+          444.2857142857142
+        ],
+        [
+          2510.285714285714,
+          1712.857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Drive_Angry_3D_panel_2010_CC.jpg",
+  "imageData": null,
+  "imageHeight": 2840,
+  "imageWidth": 4272
+}

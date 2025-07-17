@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          565.1851851851852,
+          358.8888888888888
+        ],
+        [
+          1268.888888888889,
+          1414.4444444444443
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1294.8148148148148,
+          254.25925925925924
+        ],
+        [
+          1837.4074074074074,
+          615.9876543209876
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Standing_above_Guri_Shpuem.jpg",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2160,
+  "text": ""
+}

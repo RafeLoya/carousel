@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          89.70212765957464,
+          155.04255319148936
+        ],
+        [
+          1381.1914893617022,
+          2092.276595744681
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1616.8888888888887,
+          166.83333333333337
+        ],
+        [
+          2833.5555555555557,
+          1991.833333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Demetri_and_Madison_Playing_Foosball.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 2856,
+  "text": ""
+}

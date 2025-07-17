@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          5600.500000000001,
+          217.16666666666788
+        ],
+        [
+          10510.5,
+          3490.5000000000005
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          350.5000000000007,
+          70.50000000000045
+        ],
+        [
+          5560.500000000001,
+          3543.8333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Pont_des_Arts-_Paris.jpg",
+  "imageData": null,
+  "imageHeight": 3581,
+  "imageWidth": 11661
+}

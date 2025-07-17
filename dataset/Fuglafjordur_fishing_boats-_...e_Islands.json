@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          5.423728813559208,
+          512.1694915254238
+        ],
+        [
+          1566.4406779661015,
+          1552.8474576271187
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1210.508474576271,
+          688.4406779661015
+        ],
+        [
+          2532.542372881356,
+          1569.7966101694915
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Fuglafjordur_fishing_boats-_...e_Islands.jpg",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2560
+}

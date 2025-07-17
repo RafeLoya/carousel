@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1070.7567567567567,
+          426.08108108108115
+        ],
+        [
+          1873.4594594594594,
+          961.2162162162163
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          273.4594594594595,
+          417.52252252252254
+        ],
+        [
+          1014.0000000000001,
+          911.2162162162163
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "E_Vie_du_Ma.jpg",
+  "imageData": null,
+  "imageHeight": 1140,
+  "imageWidth": 2128
+}

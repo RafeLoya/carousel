@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1711.5862068965519,
+          565.4252873563216
+        ],
+        [
+          2811.586206896552,
+          1298.7586206896551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2049.5172413793102,
+          1458.5287356321837
+        ],
+        [
+          2849.5172413793107,
+          1991.8620689655172
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Shukugawa_Park_in_spring.jpg",
+  "imageData": null,
+  "imageHeight": 2232,
+  "imageWidth": 3968
+}

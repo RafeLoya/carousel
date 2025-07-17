@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3563.5,
+          144.25
+        ],
+        [
+          5178.5,
+          2566.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1211.0,
+          885.9166666666667
+        ],
+        [
+          3391.0,
+          2339.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Albatross_Counters-Eastern_I...ark-USFWS.jpg",
+  "imageData": null,
+  "imageHeight": 3396,
+  "imageWidth": 5552
+}

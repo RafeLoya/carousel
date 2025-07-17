@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1540.22641509434,
+          861.0943396226414
+        ],
+        [
+          3842.1132075471705,
+          2395.685534591195
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          70.66666666666644,
+          521.0
+        ],
+        [
+          1563.9999999999998,
+          1516.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Antarctica-_Penguin_Hunting.jpg",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 3888,
+  "text": ""
+}

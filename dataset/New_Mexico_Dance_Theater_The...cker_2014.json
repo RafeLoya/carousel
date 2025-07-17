@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          510.92105263157896,
+          742.8684210526317
+        ],
+        [
+          1420.3947368421052,
+          1349.1842105263158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          35.131578947368524,
+          669.1842105263157
+        ],
+        [
+          506.7105263157896,
+          1376.5526315789473
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1420.3947368421052,
+          660.7631578947368
+        ],
+        [
+          1879.342105263158,
+          1349.1842105263158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "New_Mexico_Dance_Theater_The...cker_2014.jpg",
+  "imageData": null,
+  "imageHeight": 1391,
+  "imageWidth": 2045
+}

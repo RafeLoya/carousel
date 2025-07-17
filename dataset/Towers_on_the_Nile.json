@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          35.69230769230785,
+          204.73076923076928
+        ],
+        [
+          849.1538461538463,
+          1424.923076923077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          983.7692307692308,
+          389.66666666666697
+        ],
+        [
+          2210.6923076923076,
+          1207.6153846153848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Towers_on_the_Nile.jpg",
+  "imageData": null,
+  "imageHeight": 1496,
+  "imageWidth": 2256
+}

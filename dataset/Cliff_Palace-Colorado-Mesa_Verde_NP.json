@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1012.8205128205127,
+          994.6282051282051
+        ],
+        [
+          2151.282051282051,
+          1756.1666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2202.564102564102,
+          540.7820512820512
+        ],
+        [
+          3648.7179487179483,
+          1504.8846153846152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cliff_Palace-Colorado-Mesa_Verde_NP.jpg",
+  "imageData": null,
+  "imageHeight": 2279,
+  "imageWidth": 4000
+}

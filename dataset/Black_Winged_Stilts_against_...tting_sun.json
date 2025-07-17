@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          631.5068493150686,
+          447.1986301369866
+        ],
+        [
+          1432.876712328767,
+          1649.2534246575342
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1335.6164383561643,
+          401.9931506849307
+        ],
+        [
+          2172.6027397260277,
+          1657.472602739726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Black_Winged_Stilts_against_...tting_sun.jpg",
+  "imageData": null,
+  "imageHeight": 1867,
+  "imageWidth": 2800
+}

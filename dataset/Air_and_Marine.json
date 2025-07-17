@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          79.38888888888869,
+          316.2685185185185
+        ],
+        [
+          2351.6111111111113,
+          1831.0833333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1954.388888888889,
+          213.02777777777794
+        ],
+        [
+          3029.3888888888887,
+          929.6944444444445
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Air_and_Marine.jpg",
+  "imageData": null,
+  "imageHeight": 1858,
+  "imageWidth": 3056
+}

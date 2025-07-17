@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3154.555555555555,
+          684.9999999999998
+        ],
+        [
+          4534.555555555556,
+          1605.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          138.9999999999999,
+          207.96296296296305
+        ],
+        [
+          2494.555555555555,
+          1778.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Boats_moored_on_a_river_some...nd_Hoi_An.jpg",
+  "imageData": null,
+  "imageHeight": 2190,
+  "imageWidth": 4838,
+  "text": ""
+}

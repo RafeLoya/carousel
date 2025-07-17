@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2381.037037037037,
+          1510.0061728395058
+        ],
+        [
+          4210.666666666667,
+          2729.759259259259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1892.1481481481478,
+          143.33950617283972
+        ],
+        [
+          4277.333333333333,
+          1733.462962962963
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Santorini_Greece.jpg",
+  "imageData": null,
+  "imageHeight": 2741,
+  "imageWidth": 4288
+}

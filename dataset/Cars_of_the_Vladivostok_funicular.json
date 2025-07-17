@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          46.000000000000085,
+          347.625
+        ],
+        [
+          1249.75,
+          1166.375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1248.5,
+          352.625
+        ],
+        [
+          2266.0,
+          1030.9583333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cars_of_the_Vladivostok_funicular.jpg",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272
+}

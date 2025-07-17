@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          235.40740740740762,
+          164.14814814814827
+        ],
+        [
+          1798.3703703703704,
+          2508.5925925925926
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1805.7777777777778,
+          298.71604938271594
+        ],
+        [
+          4176.148148148149,
+          1878.9629629629628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Riot_in_Vancouver.jpg",
+  "imageData": null,
+  "imageHeight": 2832,
+  "imageWidth": 4256
+}

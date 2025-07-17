@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2155.25,
+          148.20833333333348
+        ],
+        [
+          3590.6666666666665,
+          2301.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          76.08333333333337,
+          375.2916666666663
+        ],
+        [
+          1303.1666666666667,
+          2215.916666666666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1109.4166666666665,
+          799.2500000000001
+        ],
+        [
+          2334.4166666666665,
+          1615.9166666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Male_Short-tailed_Albatross_...Atoll_NWR.jpg",
+  "imageData": null,
+  "imageHeight": 2736,
+  "imageWidth": 3648
+}

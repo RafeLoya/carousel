@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          489.9696969696971,
+          1069.7373737373737
+        ],
+        [
+          1983.909090909091,
+          2065.6969696969695
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2677.8484848484845,
+          973.777777777778
+        ],
+        [
+          4247.545454545454,
+          2020.2424242424242
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "duel.jpg",
+  "imageData": null,
+  "imageHeight": 2692,
+  "imageWidth": 4786
+}

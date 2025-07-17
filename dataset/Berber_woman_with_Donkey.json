@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2021.3584905660382,
+          160.15094339622692
+        ],
+        [
+          3559.0943396226417,
+          2466.754716981132
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          170.66666666666646,
+          554.3333333333334
+        ],
+        [
+          2320.6666666666665,
+          1987.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Berber_woman_with_Donkey.jpg",
+  "imageData": null,
+  "imageHeight": 2592,
+  "imageWidth": 3888,
+  "text": ""
+}

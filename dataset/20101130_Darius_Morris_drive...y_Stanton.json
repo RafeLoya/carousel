@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          86.95945945945948,
+          36.324324324324316
+        ],
+        [
+          1676.1486486486488,
+          1095.7837837837837
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1562.6351351351352,
+          60.648648648648646
+        ],
+        [
+          2478.8513513513517,
+          1434.9729729729734
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20101130_Darius_Morris_drive...y_Stanton.jpg",
+  "imageData": null,
+  "imageHeight": 2124,
+  "imageWidth": 2655,
+  "text": ""
+}

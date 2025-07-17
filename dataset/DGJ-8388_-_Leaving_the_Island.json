@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          921.1428571428573,
+          1237.8095238095239
+        ],
+        [
+          2689.714285714286,
+          2416.8571428571427
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3061.1428571428573,
+          45.42857142857156
+        ],
+        [
+          4038.285714285714,
+          1511.1428571428569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "DGJ-8388_-_Leaving_the_Island.jpg",
+  "imageData": null,
+  "imageHeight": 2848,
+  "imageWidth": 4288
+}

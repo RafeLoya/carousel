@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          19.304347826086996,
+          814.753623188406
+        ],
+        [
+          3180.1739130434785,
+          2922.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3533.882352941176,
+          527.8823529411764
+        ],
+        [
+          6639.764705882352,
+          2598.4705882352937
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Colorful_windows_and_canal_h...therlands.jpg",
+  "imageData": null,
+  "imageHeight": 3744,
+  "imageWidth": 6656,
+  "text": ""
+}

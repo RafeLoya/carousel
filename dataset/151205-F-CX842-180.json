@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          708.425925925926,
+          729.0740740740737
+        ],
+        [
+          1765.8333333333335,
+          2315.1851851851848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1863.1451612903227,
+          1246.9354838709678
+        ],
+        [
+          3334.1129032258063,
+          2227.5806451612902
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "151205-F-CX842-180.jpg",
+  "imageData": null,
+  "imageHeight": 2510,
+  "imageWidth": 3765,
+  "text": ""
+}

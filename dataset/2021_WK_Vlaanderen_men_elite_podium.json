@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          125.18131868131877,
+          32.47252747252753
+        ],
+        [
+          646.0604395604396,
+          813.7912087912088
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          751.554945054945,
+          30.274725274725142
+        ],
+        [
+          1272.434065934066,
+          811.5934065934066
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1285.6208791208792,
+          176.97802197802207
+        ],
+        [
+          1822.9835164835165,
+          983.021978021978
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "2021_WK_Vlaanderen_men_elite_podium.jpg",
+  "imageData": null,
+  "imageHeight": 1510,
+  "imageWidth": 2013
+}

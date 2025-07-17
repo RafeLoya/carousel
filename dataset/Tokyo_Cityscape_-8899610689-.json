@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          19.15789473684203,
+          394.5964912280706
+        ],
+        [
+          1966.5263157894735,
+          1692.8421052631581
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1998.1052631578946,
+          417.4035087719301
+        ],
+        [
+          3571.7894736842104,
+          1466.526315789474
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Tokyo_Cityscape_-8899610689-.jpg",
+  "imageData": null,
+  "imageHeight": 1712,
+  "imageWidth": 6112
+}

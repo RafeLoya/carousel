@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          115.66101694915258,
+          288.4406779661016
+        ],
+        [
+          1237.6949152542375,
+          1036.463276836158
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1240.3478260869565,
+          20.47826086956525
+        ],
+        [
+          2227.304347826087,
+          1500.913043478261
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Children_Playing_Chess_on_th...ba_-_Cuba.jpg",
+  "imageData": null,
+  "imageHeight": 1704,
+  "imageWidth": 2272,
+  "text": ""
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          79.31034482758628,
+          325.82758620689674
+        ],
+        [
+          1296.5517241379312,
+          2151.689655172414
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1458.6206896551726,
+          591.9195402298851
+        ],
+        [
+          3968.9655172413795,
+          2265.4827586206898
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Protesters_action_during_Gez...5-_2013-6.jpg",
+  "imageData": null,
+  "imageHeight": 2662,
+  "imageWidth": 4000
+}

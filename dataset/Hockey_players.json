@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          858.6776859504132,
+          13.33471074380168
+        ],
+        [
+          1571.900826446281,
+          1083.1694214876034
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          15.70247933884292,
+          -0.7809917355372757
+        ],
+        [
+          733.8842975206612,
+          1066.9876033057856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Hockey_players.jpg",
+  "imageData": null,
+  "imageHeight": 1087,
+  "imageWidth": 1600
+}

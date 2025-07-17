@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          730.3181818181815,
+          812.3333333333328
+        ],
+        [
+          2698.5,
+          2124.454545454545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2793.9545454545455,
+          803.2424242424245
+        ],
+        [
+          4809.863636363636,
+          2147.181818181818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mountain_Peak.jpg",
+  "imageData": null,
+  "imageHeight": 2508,
+  "imageWidth": 4997
+}

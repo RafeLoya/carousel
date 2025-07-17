@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1879.1666666666667,
+          30.555555555555657
+        ],
+        [
+          3783.3333333333335,
+          1300.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          470.8333333333334,
+          1052.0833333333335
+        ],
+        [
+          2283.3333333333335,
+          2260.4166666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Palm_Beach_Shores_Florida_ph...mey_Logan.jpg",
+  "imageData": null,
+  "imageHeight": 3200,
+  "imageWidth": 4800,
+  "text": ""
+}

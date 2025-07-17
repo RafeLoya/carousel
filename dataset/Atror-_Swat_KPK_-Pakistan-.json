@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          256.85714285714266,
+          1429.2222222222222
+        ],
+        [
+          3002.095238095238,
+          3259.3809523809523
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2907.478260869565,
+          273.304347826087
+        ],
+        [
+          4916.173913043478,
+          1612.4347826086955
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Atror-_Swat_KPK_-Pakistan-.jpg",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 4928,
+  "text": ""
+}

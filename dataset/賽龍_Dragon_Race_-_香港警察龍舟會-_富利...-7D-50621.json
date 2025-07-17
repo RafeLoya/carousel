@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          115.07692307692304,
+          1560.0512820512822
+        ],
+        [
+          2768.9230769230767,
+          3329.2820512820513
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          958.6666666666665,
+          160.05128205128221
+        ],
+        [
+          3550.974358974359,
+          1888.2564102564104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "賽龍_Dragon_Race_-_香港警察龍舟會-_富利...-7D-50621.jpg",
+  "imageData": null,
+  "imageHeight": 3456,
+  "imageWidth": 5184
+}

@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          453.6538461538462,
+          93.8846153846157
+        ],
+        [
+          1511.3461538461538,
+          1680.4230769230771
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1569.0384615384617,
+          191.96153846153857
+        ],
+        [
+          2453.653846153846,
+          1518.8846153846152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2515.1923076923076,
+          181.7051282051284
+        ],
+        [
+          4480.576923076923,
+          1491.9615384615386
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Sail_Boat.jpg",
+  "imageData": null,
+  "imageHeight": 1707,
+  "imageWidth": 4515
+}

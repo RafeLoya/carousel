@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          231.0344827586207,
+          450.2873563218395
+        ],
+        [
+          2262.0689655172414,
+          1804.3103448275865
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2310.344827586207,
+          804.310344827586
+        ],
+        [
+          3913.7931034482763,
+          1873.2758620689656
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "RIT_vs_Notre_Dame_faceoff_2023-10-14.jpg",
+  "imageData": null,
+  "imageHeight": 2250,
+  "imageWidth": 4000
+}

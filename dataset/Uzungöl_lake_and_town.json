@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1412.8484848484848,
+          592.4040404040406
+        ],
+        [
+          2752.242424242424,
+          1485.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          0.727272727272755,
+          1192.4040404040404
+        ],
+        [
+          1303.7575757575758,
+          2061.090909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Uzungöl_lake_and_town.jpg",
+  "imageData": null,
+  "imageHeight": 2304,
+  "imageWidth": 3456
+}

@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          265.5714285714289,
+          1294.1666666666663
+        ],
+        [
+          2897.7142857142862,
+          3048.928571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          990.5714285714289,
+          3006.0714285714284
+        ],
+        [
+          2026.2857142857147,
+          4559.642857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "181226-M-AG794-1144.jpg",
+  "imageData": null,
+  "imageHeight": 4830,
+  "imageWidth": 3224
+}

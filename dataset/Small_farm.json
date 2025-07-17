@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3874.1428571428573,
+          1525.4761904761913
+        ],
+        [
+          7402.714285714285,
+          3877.857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          602.7142857142867,
+          113.57142857142935
+        ],
+        [
+          3231.2857142857147,
+          4056.4285714285716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Small_farm.jpg",
+  "imageData": null,
+  "imageHeight": 4970,
+  "imageWidth": 8334
+}

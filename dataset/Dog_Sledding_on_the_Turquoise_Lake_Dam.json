@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1500.8333333333333,
+          733.125
+        ],
+        [
+          2890.416666666667,
+          1659.5138888888891
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          252.22222222222211,
+          430.00000000000006
+        ],
+        [
+          1602.2222222222222,
+          1330.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Dog_Sledding_on_the_Turquoise_Lake_Dam.jpg",
+  "imageData": null,
+  "imageHeight": 1835,
+  "imageWidth": 3260,
+  "text": ""
+}

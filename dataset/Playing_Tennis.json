@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1438.666666666666,
+          1437.333333333333
+        ],
+        [
+          3198.666666666666,
+          4077.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          158.66666666666606,
+          1317.3333333333326
+        ],
+        [
+          1785.333333333333,
+          3757.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Playing_Tennis.jpg",
+  "imageData": null,
+  "imageHeight": 4928,
+  "imageWidth": 3264
+}

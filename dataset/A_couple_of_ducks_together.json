@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          452.8888888888889,
+          321.1296296296298
+        ],
+        [
+          2208.4444444444434,
+          1491.5000000000002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2861.7777777777774,
+          535.2037037037035
+        ],
+        [
+          4926.222222222223,
+          1911.5000000000002
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A_couple_of_ducks_together.jpg",
+  "imageData": null,
+  "imageHeight": 2923,
+  "imageWidth": 4928
+}

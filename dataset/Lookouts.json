@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4056.4999999999995,
+          1036.261904761905
+        ],
+        [
+          7145.785714285714,
+          3095.785714285714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          243.99999999999977,
+          797.1250000000001
+        ],
+        [
+          3981.5,
+          3288.7916666666665
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Lookouts.jpg",
+  "imageData": null,
+  "imageHeight": 4713,
+  "imageWidth": 7163,
+  "text": ""
+}

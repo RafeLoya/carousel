@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          4.000000000000028,
+          562.5
+        ],
+        [
+          1468.7058823529412,
+          1538.9705882352941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1786.3529411764705,
+          382.10784313725503
+        ],
+        [
+          2912.8235294117644,
+          1133.0882352941176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "3Falls_Niagara.jpg",
+  "imageData": null,
+  "imageHeight": 2000,
+  "imageWidth": 3008
+}

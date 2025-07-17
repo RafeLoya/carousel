@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          771.9166666666666,
+          275.9027777777777
+        ],
+        [
+          1624.0,
+          843.9583333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2.1249999999999716,
+          306.1111111111112
+        ],
+        [
+          791.7083333333333,
+          832.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1651.0833333333333,
+          243.43749999999955
+        ],
+        [
+          2045.8750000000002,
+          835.625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "India_-_Golden_Temple-_Amritsar.jpg",
+  "imageData": null,
+  "imageHeight": 1365,
+  "imageWidth": 2048
+}

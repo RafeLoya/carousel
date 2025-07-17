@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          228.0,
+          159.5
+        ],
+        [
+          2373.0,
+          3377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3043.0,
+          79.50000000000017
+        ],
+        [
+          5463.0,
+          3709.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Red_square_Moscow_cityscape_-8309148721-.jpg",
+  "imageData": null,
+  "imageHeight": 3744,
+  "imageWidth": 5616,
+  "text": ""
+}

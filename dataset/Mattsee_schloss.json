@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1620.1538461538462,
+          33.03846153846143
+        ],
+        [
+          3143.2307692307695,
+          1048.423076923077
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          147.84615384615404,
+          562.2692307692307
+        ],
+        [
+          1803.2307692307693,
+          1665.8589743589741
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Mattsee_schloss.jpg",
+  "imageData": null,
+  "imageHeight": 1903,
+  "imageWidth": 3388
+}

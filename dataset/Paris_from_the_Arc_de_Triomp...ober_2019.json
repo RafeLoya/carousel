@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          491.9999999999999,
+          86.00000000000023
+        ],
+        [
+          2487.0,
+          3078.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          3277.0,
+          261.0000000000002
+        ],
+        [
+          5207.0,
+          3156.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Paris_from_the_Arc_de_Triomp...ober_2019.jpg",
+  "imageData": null,
+  "imageHeight": 3192,
+  "imageWidth": 5674
+}

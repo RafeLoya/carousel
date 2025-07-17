@@ -1,0 +1,45 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          283.6065573770493,
+          34.02732240437183
+        ],
+        [
+          1796.72131147541,
+          1042.770491803279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1822.2222222222222,
+          70.38888888888883
+        ],
+        [
+          3169.4444444444443,
+          2091.222222222222
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "legal_report.jpg",
+  "imageData": null,
+  "imageHeight": 2138,
+  "imageWidth": 3200,
+  "text": ""
+}

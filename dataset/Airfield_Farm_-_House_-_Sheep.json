@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2468.9166666666665,
+          359.4583333333335
+        ],
+        [
+          3981.4166666666665,
+          1367.7916666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          668.9166666666665,
+          50.430555555555316
+        ],
+        [
+          2041.8333333333335,
+          965.7083333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Airfield_Farm_-_House_-_Sheep.jpg",
+  "imageData": null,
+  "imageHeight": 1396,
+  "imageWidth": 4592
+}

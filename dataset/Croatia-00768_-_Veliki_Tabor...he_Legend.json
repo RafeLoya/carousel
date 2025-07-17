@@ -1,0 +1,79 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          196.0,
+          1922.0
+        ],
+        [
+          2472.0,
+          3439.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2952.0,
+          1766.0
+        ],
+        [
+          5192.0,
+          3259.333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1236.842105263158,
+          728.9473684210527
+        ],
+        [
+          2657.8947368421054,
+          1676.3157894736844
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3405.2631578947367,
+          102.63157894736842
+        ],
+        [
+          5752.631578947368,
+          1667.5438596491226
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Croatia-00768_-_Veliki_Tabor...he_Legend.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 6000,
+  "text": ""
+}

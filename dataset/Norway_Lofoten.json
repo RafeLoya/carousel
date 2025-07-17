@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          967.3076923076924,
+          380.7692307692307
+        ],
+        [
+          3234.6153846153848,
+          1892.3076923076922
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          9.615384615384528,
+          640.3846153846154
+        ],
+        [
+          1296.1538461538462,
+          1498.076923076923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Norway_Lofoten.jpg",
+  "imageData": null,
+  "imageHeight": 2500,
+  "imageWidth": 3750
+}

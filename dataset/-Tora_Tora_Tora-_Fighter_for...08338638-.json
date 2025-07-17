@@ -1,0 +1,62 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          135.00000000000026,
+          1986.8418803418804
+        ],
+        [
+          2022.1794871794875,
+          3244.9615384615386
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          1809.3589743589746,
+          1160.3461538461538
+        ],
+        [
+          3532.435897435898,
+          2309.0641025641025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          3425.909090909091,
+          304.2272727272728
+        ],
+        [
+          5144.090909090909,
+          1449.681818181818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "-Tora_Tora_Tora-_Fighter_for...08338638-.jpg",
+  "imageData": null,
+  "imageHeight": 3513,
+  "imageWidth": 5270,
+  "text": ""
+}

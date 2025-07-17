@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          122.29411764705878,
+          951.2941176470588
+        ],
+        [
+          2028.1764705882351,
+          2221.8823529411757
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          2298.7647058823527,
+          683.6470588235288
+        ],
+        [
+          4363.470588235295,
+          2060.1176470588234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Cincinnati_Zoo_08-31-2015_-_...Ostrich_1.jpg",
+  "imageData": null,
+  "imageHeight": 2982,
+  "imageWidth": 4374
+}

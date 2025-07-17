@@ -1,0 +1,44 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          2718.6111111111113,
+          36.1851851851859
+        ],
+        [
+          4018.611111111111,
+          1986.1851851851852
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "3x2",
+      "text": "",
+      "points": [
+        [
+          285.27777777777806,
+          254.0864197530866
+        ],
+        [
+          1788.9814814814818,
+          1256.5555555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (3:2)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Toledo_Skyline_Panorama-_Spa..._Dec_2006.jpg",
+  "imageData": null,
+  "imageHeight": 2002,
+  "imageWidth": 4215
+}

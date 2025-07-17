@@ -1,0 +1,61 @@
+{
+  "version": "0.4.16",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          39.33333333333326,
+          204.5
+        ],
+        [
+          685.1666666666666,
+          1173.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          647.6666666666666,
+          103.80555555555588
+        ],
+        [
+          1347.6666666666665,
+          1153.8055555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    },
+    {
+      "label": "2x3",
+      "text": "",
+      "points": [
+        [
+          1294.8888888888887,
+          103.80555555555566
+        ],
+        [
+          2022.6666666666665,
+          1195.4722222222224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle (2:3)",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ECA_Dragon_Boat_European_Cha...enior_Men.jpg",
+  "imageData": null,
+  "imageHeight": 1409,
+  "imageWidth": 2037
+}
