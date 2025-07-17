@@ -1,0 +1,10 @@
+{
+  "original_filename": "Italy_-_Pisa_-_Leaning_Tower_of_Pisa.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Italy_-_Pisa_-_Leaning_Tower_of_Pisa_3x2_partition_1.jpg",
+    "Italy_-_Pisa_-_Leaning_Tower_of_Pisa_3x2_partition_2.jpg"
+  ]
+}

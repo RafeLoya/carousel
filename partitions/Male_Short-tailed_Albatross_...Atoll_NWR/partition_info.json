@@ -1,0 +1,11 @@
+{
+  "original_filename": "Male_Short-tailed_Albatross_...Atoll_NWR.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Male_Short-tailed_Albatross_...Atoll_NWR_3x2_partition_1.jpg",
+    "Male_Short-tailed_Albatross_...Atoll_NWR_3x2_partition_2.jpg",
+    "Male_Short-tailed_Albatross_...Atoll_NWR_3x2_partition_3.jpg"
+  ]
+}

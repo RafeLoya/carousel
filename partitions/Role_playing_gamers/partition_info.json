@@ -1,0 +1,11 @@
+{
+  "original_filename": "Role_playing_gamers.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Role_playing_gamers_3x2_partition_1.jpg",
+    "Role_playing_gamers_3x2_partition_2.jpg",
+    "Role_playing_gamers_3x2_partition_3.jpg"
+  ]
+}

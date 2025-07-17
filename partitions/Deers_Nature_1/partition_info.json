@@ -1,0 +1,11 @@
+{
+  "original_filename": "Deers_Nature_1.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Deers_Nature_1_3x2_partition_1.jpg",
+    "Deers_Nature_1_3x2_partition_2.jpg",
+    "Deers_Nature_1_3x2_partition_3.jpg"
+  ]
+}

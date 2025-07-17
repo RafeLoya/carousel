@@ -1,0 +1,11 @@
+{
+  "original_filename": "King_Penguin.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "King_Penguin_2x3_partition_1.jpg",
+    "King_Penguin_2x3_partition_2.jpg",
+    "King_Penguin_2x3_partition_3.jpg"
+  ]
+}

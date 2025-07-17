@@ -1,0 +1,10 @@
+{
+  "original_filename": "Demetri_and_Madison_Playing_Foosball.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Demetri_and_Madison_Playing_Foosball_2x3_partition_1.jpg",
+    "Demetri_and_Madison_Playing_Foosball_2x3_partition_2.jpg"
+  ]
+}

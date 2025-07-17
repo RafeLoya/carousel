@@ -1,0 +1,11 @@
+{
+  "original_filename": "Sea_Ocean.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Sea_Ocean_3x2_partition_1.jpg",
+    "Sea_Ocean_3x2_partition_2.jpg",
+    "Sea_Ocean_3x2_partition_3.jpg"
+  ]
+}

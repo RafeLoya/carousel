@@ -1,0 +1,10 @@
+{
+  "original_filename": "Babes_in_the_lake_2.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Babes_in_the_lake_2_2x3_partition_1.jpg",
+    "Babes_in_the_lake_2_2x3_partition_2.jpg"
+  ]
+}

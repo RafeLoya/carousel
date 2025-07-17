@@ -1,0 +1,10 @@
+{
+  "original_filename": "Birds_Flying.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Birds_Flying_2x3_partition_1.jpg",
+    "Birds_Flying_2x3_partition_2.jpg"
+  ]
+}

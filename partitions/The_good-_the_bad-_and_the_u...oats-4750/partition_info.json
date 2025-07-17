@@ -1,0 +1,11 @@
+{
+  "original_filename": "The_good-_the_bad-_and_the_u...oats-4750.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "The_good-_the_bad-_and_the_u...oats-4750_3x2_partition_1.jpg",
+    "The_good-_the_bad-_and_the_u...oats-4750_3x2_partition_2.jpg",
+    "The_good-_the_bad-_and_the_u...oats-4750_3x2_partition_3.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "Food_court-.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Food_court-_3x2_partition_1.jpg",
+    "Food_court-_3x2_partition_2.jpg"
+  ]
+}

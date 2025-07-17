@@ -1,0 +1,11 @@
+{
+  "original_filename": "Police_with_riot_shields_in_...ham-_2011.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Police_with_riot_shields_in_...ham-_2011_2x3_partition_1.jpg",
+    "Police_with_riot_shields_in_...ham-_2011_2x3_partition_2.jpg",
+    "Police_with_riot_shields_in_...ham-_2011_2x3_partition_3.jpg"
+  ]
+}

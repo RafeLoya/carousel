@@ -1,0 +1,11 @@
+{
+  "original_filename": "Cityscape_of_Rovinj_at_sunset.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Cityscape_of_Rovinj_at_sunset_2x3_partition_1.jpg",
+    "Cityscape_of_Rovinj_at_sunset_2x3_partition_2.jpg",
+    "Cityscape_of_Rovinj_at_sunset_2x3_partition_3.jpg"
+  ]
+}

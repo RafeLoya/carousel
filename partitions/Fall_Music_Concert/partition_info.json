@@ -1,0 +1,10 @@
+{
+  "original_filename": "Fall_Music_Concert.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Fall_Music_Concert_2x3_partition_1.jpg",
+    "Fall_Music_Concert_2x3_partition_2.jpg"
+  ]
+}

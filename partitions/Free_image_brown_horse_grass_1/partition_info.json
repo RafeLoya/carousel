@@ -1,0 +1,10 @@
+{
+  "original_filename": "Free_image_brown_horse_grass_1.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Free_image_brown_horse_grass_1_3x2_partition_1.jpg",
+    "Free_image_brown_horse_grass_1_3x2_partition_2.jpg"
+  ]
+}

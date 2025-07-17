@@ -1,0 +1,10 @@
+{
+  "original_filename": "Cows_and_Wall_of_Solovki_Monastery.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Cows_and_Wall_of_Solovki_Monastery_2x3_partition_1.jpg",
+    "Cows_and_Wall_of_Solovki_Monastery_2x3_partition_2.jpg"
+  ]
+}

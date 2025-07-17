@@ -1,0 +1,10 @@
+{
+  "original_filename": "140907-A-EM105-569.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "140907-A-EM105-569_3x2_partition_1.jpg",
+    "140907-A-EM105-569_3x2_partition_2.jpg"
+  ]
+}

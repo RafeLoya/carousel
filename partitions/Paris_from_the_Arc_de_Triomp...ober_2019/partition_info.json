@@ -1,0 +1,10 @@
+{
+  "original_filename": "Paris_from_the_Arc_de_Triomp...ober_2019.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Paris_from_the_Arc_de_Triomp...ober_2019_3x2_partition_1.jpg",
+    "Paris_from_the_Arc_de_Triomp...ober_2019_3x2_partition_2.jpg"
+  ]
+}

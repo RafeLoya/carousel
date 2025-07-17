@@ -1,0 +1,10 @@
+{
+  "original_filename": "181226-M-AG794-1144.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "181226-M-AG794-1144_3x2_partition_1.jpg",
+    "181226-M-AG794-1144_3x2_partition_2.jpg"
+  ]
+}

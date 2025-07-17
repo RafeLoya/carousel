@@ -1,0 +1,10 @@
+{
+  "original_filename": "West_Lake_-_Hangzhou-_China.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "West_Lake_-_Hangzhou-_China_2x3_partition_1.jpg",
+    "West_Lake_-_Hangzhou-_China_2x3_partition_2.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "Abandoned_Collapsing_Farm_0795_E.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Abandoned_Collapsing_Farm_0795_E_3x2_partition_1.jpg",
+    "Abandoned_Collapsing_Farm_0795_E_3x2_partition_2.jpg"
+  ]
+}

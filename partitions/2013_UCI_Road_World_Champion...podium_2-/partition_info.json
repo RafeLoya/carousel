@@ -1,0 +1,11 @@
+{
+  "original_filename": "2013_UCI_Road_World_Champion...podium_2-.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "2013_UCI_Road_World_Champion...podium_2-_2x3_partition_1.jpg",
+    "2013_UCI_Road_World_Champion...podium_2-_2x3_partition_2.jpg",
+    "2013_UCI_Road_World_Champion...podium_2-_2x3_partition_3.jpg"
+  ]
+}

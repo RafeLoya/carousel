@@ -1,0 +1,10 @@
+{
+  "original_filename": "Steampunk_Hardsuit_Mk2.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Steampunk_Hardsuit_Mk2_2x3_partition_1.jpg",
+    "Steampunk_Hardsuit_Mk2_2x3_partition_2.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "The_Highland_Castle.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "The_Highland_Castle_2x3_partition_1.jpg",
+    "The_Highland_Castle_2x3_partition_2.jpg"
+  ]
+}

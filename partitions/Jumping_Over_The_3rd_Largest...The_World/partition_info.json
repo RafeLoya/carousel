@@ -1,0 +1,10 @@
+{
+  "original_filename": "Jumping_Over_The_3rd_Largest...The_World.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Jumping_Over_The_3rd_Largest...The_World_2x3_partition_1.jpg",
+    "Jumping_Over_The_3rd_Largest...The_World_2x3_partition_2.jpg"
+  ]
+}

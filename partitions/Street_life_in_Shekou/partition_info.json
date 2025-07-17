@@ -1,0 +1,10 @@
+{
+  "original_filename": "Street_life_in_Shekou.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Street_life_in_Shekou_3x2_partition_1.jpg",
+    "Street_life_in_Shekou_3x2_partition_2.jpg"
+  ]
+}

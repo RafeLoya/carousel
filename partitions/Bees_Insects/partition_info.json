@@ -1,0 +1,10 @@
+{
+  "original_filename": "Bees_Insects.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Bees_Insects_3x2_partition_1.jpg",
+    "Bees_Insects_3x2_partition_2.jpg"
+  ]
+}

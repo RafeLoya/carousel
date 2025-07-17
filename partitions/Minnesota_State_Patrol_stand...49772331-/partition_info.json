@@ -1,0 +1,11 @@
+{
+  "original_filename": "Minnesota_State_Patrol_stand...49772331-.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Minnesota_State_Patrol_stand...49772331-_2x3_partition_1.jpg",
+    "Minnesota_State_Patrol_stand...49772331-_2x3_partition_2.jpg",
+    "Minnesota_State_Patrol_stand...49772331-_2x3_partition_3.jpg"
+  ]
+}

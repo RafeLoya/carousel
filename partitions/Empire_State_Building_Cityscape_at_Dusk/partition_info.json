@@ -1,0 +1,11 @@
+{
+  "original_filename": "Empire_State_Building_Cityscape_at_Dusk.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Empire_State_Building_Cityscape_at_Dusk_2x3_partition_1.jpg",
+    "Empire_State_Building_Cityscape_at_Dusk_2x3_partition_2.jpg",
+    "Empire_State_Building_Cityscape_at_Dusk_2x3_partition_3.jpg"
+  ]
+}

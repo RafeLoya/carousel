@@ -1,0 +1,11 @@
+{
+  "original_filename": "European_Championships_2022-..._DSC_1502.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "European_Championships_2022-..._DSC_1502_2x3_partition_1.jpg",
+    "European_Championships_2022-..._DSC_1502_2x3_partition_2.jpg",
+    "European_Championships_2022-..._DSC_1502_2x3_partition_3.jpg"
+  ]
+}

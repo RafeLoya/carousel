@@ -1,0 +1,11 @@
+{
+  "original_filename": "The_Pyramids_at_Giza_-III-.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "The_Pyramids_at_Giza_-III-_2x3_partition_1.jpg",
+    "The_Pyramids_at_Giza_-III-_2x3_partition_2.jpg",
+    "The_Pyramids_at_Giza_-III-_2x3_partition_3.jpg"
+  ]
+}

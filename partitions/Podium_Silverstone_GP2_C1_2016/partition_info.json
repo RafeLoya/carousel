@@ -1,0 +1,10 @@
+{
+  "original_filename": "Podium_Silverstone_GP2_C1_2016.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Podium_Silverstone_GP2_C1_2016_2x3_partition_1.jpg",
+    "Podium_Silverstone_GP2_C1_2016_2x3_partition_2.jpg"
+  ]
+}

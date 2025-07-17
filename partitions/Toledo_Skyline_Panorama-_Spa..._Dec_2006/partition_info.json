@@ -1,0 +1,10 @@
+{
+  "original_filename": "Toledo_Skyline_Panorama-_Spa..._Dec_2006.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Toledo_Skyline_Panorama-_Spa..._Dec_2006_3x2_partition_1.jpg",
+    "Toledo_Skyline_Panorama-_Spa..._Dec_2006_3x2_partition_2.jpg"
+  ]
+}

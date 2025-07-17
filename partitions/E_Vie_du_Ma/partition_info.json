@@ -1,0 +1,10 @@
+{
+  "original_filename": "E_Vie_du_Ma.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "E_Vie_du_Ma_2x3_partition_1.jpg",
+    "E_Vie_du_Ma_2x3_partition_2.jpg"
+  ]
+}

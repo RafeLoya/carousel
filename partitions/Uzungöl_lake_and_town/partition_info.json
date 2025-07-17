@@ -1,0 +1,10 @@
+{
+  "original_filename": "Uzungo\u0308l_lake_and_town.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Uzungo\u0308l_lake_and_town_2x3_partition_1.jpg",
+    "Uzungo\u0308l_lake_and_town_2x3_partition_2.jpg"
+  ]
+}

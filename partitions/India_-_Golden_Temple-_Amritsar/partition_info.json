@@ -1,0 +1,11 @@
+{
+  "original_filename": "India_-_Golden_Temple-_Amritsar.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "India_-_Golden_Temple-_Amritsar_2x3_partition_1.jpg",
+    "India_-_Golden_Temple-_Amritsar_2x3_partition_2.jpg",
+    "India_-_Golden_Temple-_Amritsar_2x3_partition_3.jpg"
+  ]
+}

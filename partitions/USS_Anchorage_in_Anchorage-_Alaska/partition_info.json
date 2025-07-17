@@ -1,0 +1,11 @@
+{
+  "original_filename": "USS_Anchorage_in_Anchorage-_Alaska.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "USS_Anchorage_in_Anchorage-_Alaska_3x2_partition_1.jpg",
+    "USS_Anchorage_in_Anchorage-_Alaska_3x2_partition_2.jpg",
+    "USS_Anchorage_in_Anchorage-_Alaska_3x2_partition_3.jpg"
+  ]
+}

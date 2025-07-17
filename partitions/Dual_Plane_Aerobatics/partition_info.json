@@ -1,0 +1,10 @@
+{
+  "original_filename": "Dual_Plane_Aerobatics.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Dual_Plane_Aerobatics_3x2_partition_1.jpg",
+    "Dual_Plane_Aerobatics_3x2_partition_2.jpg"
+  ]
+}

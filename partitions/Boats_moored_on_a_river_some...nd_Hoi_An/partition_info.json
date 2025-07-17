@@ -1,0 +1,10 @@
+{
+  "original_filename": "Boats_moored_on_a_river_some...nd_Hoi_An.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Boats_moored_on_a_river_some...nd_Hoi_An_2x3_partition_1.jpg",
+    "Boats_moored_on_a_river_some...nd_Hoi_An_2x3_partition_2.jpg"
+  ]
+}

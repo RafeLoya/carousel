@@ -1,0 +1,10 @@
+{
+  "original_filename": "101218-N-6003P-086.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "101218-N-6003P-086_3x2_partition_1.jpg",
+    "101218-N-6003P-086_3x2_partition_2.jpg"
+  ]
+}

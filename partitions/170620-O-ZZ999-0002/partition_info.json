@@ -1,0 +1,11 @@
+{
+  "original_filename": "170620-O-ZZ999-0002.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "170620-O-ZZ999-0002_3x2_partition_1.jpg",
+    "170620-O-ZZ999-0002_3x2_partition_2.jpg",
+    "170620-O-ZZ999-0002_3x2_partition_3.jpg"
+  ]
+}

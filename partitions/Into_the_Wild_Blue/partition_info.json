@@ -1,0 +1,10 @@
+{
+  "original_filename": "Into_the_Wild_Blue.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Into_the_Wild_Blue_2x3_partition_1.jpg",
+    "Into_the_Wild_Blue_2x3_partition_2.jpg"
+  ]
+}

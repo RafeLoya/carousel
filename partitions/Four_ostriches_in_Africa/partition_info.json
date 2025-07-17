@@ -1,0 +1,11 @@
+{
+  "original_filename": "Four_ostriches_in_Africa.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Four_ostriches_in_Africa_3x2_partition_1.jpg",
+    "Four_ostriches_in_Africa_3x2_partition_2.jpg",
+    "Four_ostriches_in_Africa_3x2_partition_3.jpg"
+  ]
+}

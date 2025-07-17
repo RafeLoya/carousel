@@ -1,0 +1,10 @@
+{
+  "original_filename": "I-m_gone_for_fishing.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "I-m_gone_for_fishing_2x3_partition_1.jpg",
+    "I-m_gone_for_fishing_2x3_partition_2.jpg"
+  ]
+}

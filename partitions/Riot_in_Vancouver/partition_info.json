@@ -1,0 +1,10 @@
+{
+  "original_filename": "Riot_in_Vancouver.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Riot_in_Vancouver_2x3_partition_1.jpg",
+    "Riot_in_Vancouver_2x3_partition_2.jpg"
+  ]
+}

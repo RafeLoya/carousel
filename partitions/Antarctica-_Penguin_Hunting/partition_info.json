@@ -1,0 +1,10 @@
+{
+  "original_filename": "Antarctica-_Penguin_Hunting.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Antarctica-_Penguin_Hunting_2x3_partition_1.jpg",
+    "Antarctica-_Penguin_Hunting_2x3_partition_2.jpg"
+  ]
+}

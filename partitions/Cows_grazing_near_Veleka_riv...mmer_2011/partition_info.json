@@ -1,0 +1,10 @@
+{
+  "original_filename": "Cows_grazing_near_Veleka_riv...mmer_2011.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Cows_grazing_near_Veleka_riv...mmer_2011_3x2_partition_1.jpg",
+    "Cows_grazing_near_Veleka_riv...mmer_2011_3x2_partition_2.jpg"
+  ]
+}

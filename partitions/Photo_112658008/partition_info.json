@@ -1,0 +1,10 @@
+{
+  "original_filename": "Photo_112658008.jpeg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Photo_112658008_3x2_partition_1.jpg",
+    "Photo_112658008_3x2_partition_2.jpg"
+  ]
+}

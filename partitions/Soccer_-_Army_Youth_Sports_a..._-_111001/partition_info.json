@@ -1,0 +1,10 @@
+{
+  "original_filename": "Soccer_-_Army_Youth_Sports_a..._-_111001.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Soccer_-_Army_Youth_Sports_a..._-_111001_2x3_partition_1.jpg",
+    "Soccer_-_Army_Youth_Sports_a..._-_111001_2x3_partition_2.jpg"
+  ]
+}

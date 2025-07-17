@@ -1,0 +1,10 @@
+{
+  "original_filename": "Wiknic_Paris_2015_19.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Wiknic_Paris_2015_19_3x2_partition_1.jpg",
+    "Wiknic_Paris_2015_19_3x2_partition_2.jpg"
+  ]
+}

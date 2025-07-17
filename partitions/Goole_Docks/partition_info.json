@@ -1,0 +1,10 @@
+{
+  "original_filename": "Goole_Docks.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Goole_Docks_2x3_partition_1.jpg",
+    "Goole_Docks_2x3_partition_2.jpg"
+  ]
+}

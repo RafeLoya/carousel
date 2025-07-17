@@ -1,0 +1,10 @@
+{
+  "original_filename": "090717-N-4234E-473.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "090717-N-4234E-473_2x3_partition_1.jpg",
+    "090717-N-4234E-473_2x3_partition_2.jpg"
+  ]
+}

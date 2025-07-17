@@ -1,0 +1,11 @@
+{
+  "original_filename": "170716-F-QP401-075.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "170716-F-QP401-075_2x3_partition_1.jpg",
+    "170716-F-QP401-075_2x3_partition_2.jpg",
+    "170716-F-QP401-075_2x3_partition_3.jpg"
+  ]
+}

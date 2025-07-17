@@ -1,0 +1,10 @@
+{
+  "original_filename": "UWC_Thailand_sailing.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "UWC_Thailand_sailing_2x3_partition_1.jpg",
+    "UWC_Thailand_sailing_2x3_partition_2.jpg"
+  ]
+}

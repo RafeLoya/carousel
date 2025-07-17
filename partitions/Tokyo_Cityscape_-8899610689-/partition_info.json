@@ -1,0 +1,10 @@
+{
+  "original_filename": "Tokyo_Cityscape_-8899610689-.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Tokyo_Cityscape_-8899610689-_3x2_partition_1.jpg",
+    "Tokyo_Cityscape_-8899610689-_3x2_partition_2.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "Cityscape_of_The_Hague-_view...e_Square-.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Cityscape_of_The_Hague-_view...e_Square-_2x3_partition_1.jpg",
+    "Cityscape_of_The_Hague-_view...e_Square-_2x3_partition_2.jpg"
+  ]
+}

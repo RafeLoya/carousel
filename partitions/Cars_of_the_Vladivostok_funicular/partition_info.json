@@ -1,0 +1,10 @@
+{
+  "original_filename": "Cars_of_the_Vladivostok_funicular.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Cars_of_the_Vladivostok_funicular_3x2_partition_1.jpg",
+    "Cars_of_the_Vladivostok_funicular_3x2_partition_2.jpg"
+  ]
+}

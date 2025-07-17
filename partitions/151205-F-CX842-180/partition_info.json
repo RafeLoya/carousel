@@ -1,0 +1,10 @@
+{
+  "original_filename": "151205-F-CX842-180.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "151205-F-CX842-180_3x2_partition_1.jpg",
+    "151205-F-CX842-180_3x2_partition_2.jpg"
+  ]
+}

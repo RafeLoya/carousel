@@ -1,0 +1,10 @@
+{
+  "original_filename": "Elephant_Africa.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Elephant_Africa_3x2_partition_1.jpg",
+    "Elephant_Africa_3x2_partition_2.jpg"
+  ]
+}

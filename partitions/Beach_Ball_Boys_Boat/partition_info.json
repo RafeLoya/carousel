@@ -1,0 +1,11 @@
+{
+  "original_filename": "Beach_Ball_Boys_Boat.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Beach_Ball_Boys_Boat_2x3_partition_1.jpg",
+    "Beach_Ball_Boys_Boat_2x3_partition_2.jpg",
+    "Beach_Ball_Boys_Boat_2x3_partition_3.jpg"
+  ]
+}

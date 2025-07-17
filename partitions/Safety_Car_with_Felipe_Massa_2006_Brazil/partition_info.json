@@ -1,0 +1,10 @@
+{
+  "original_filename": "Safety_Car_with_Felipe_Massa_2006_Brazil.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Safety_Car_with_Felipe_Massa_2006_Brazil_2x3_partition_1.jpg",
+    "Safety_Car_with_Felipe_Massa_2006_Brazil_2x3_partition_2.jpg"
+  ]
+}

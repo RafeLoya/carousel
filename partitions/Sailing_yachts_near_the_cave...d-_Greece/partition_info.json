@@ -1,0 +1,10 @@
+{
+  "original_filename": "Sailing_yachts_near_the_cave...d-_Greece.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Sailing_yachts_near_the_cave...d-_Greece_2x3_partition_1.jpg",
+    "Sailing_yachts_near_the_cave...d-_Greece_2x3_partition_2.jpg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "original_filename": "190801-F-ON660-0604.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "190801-F-ON660-0604_3x2_partition_1.jpg",
+    "190801-F-ON660-0604_3x2_partition_2.jpg",
+    "190801-F-ON660-0604_3x2_partition_3.jpg"
+  ]
+}

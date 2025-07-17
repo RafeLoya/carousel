@@ -1,0 +1,11 @@
+{
+  "original_filename": "Pudong_Shanghai_November_2017_panorama.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Pudong_Shanghai_November_2017_panorama_3x2_partition_1.jpg",
+    "Pudong_Shanghai_November_2017_panorama_3x2_partition_2.jpg",
+    "Pudong_Shanghai_November_2017_panorama_3x2_partition_3.jpg"
+  ]
+}

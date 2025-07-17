@@ -1,0 +1,10 @@
+{
+  "original_filename": "Deer_in_a_forest.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Deer_in_a_forest_2x3_partition_1.jpg",
+    "Deer_in_a_forest_2x3_partition_2.jpg"
+  ]
+}

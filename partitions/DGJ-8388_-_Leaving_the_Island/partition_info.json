@@ -1,0 +1,10 @@
+{
+  "original_filename": "DGJ-8388_-_Leaving_the_Island.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "DGJ-8388_-_Leaving_the_Island_2x3_partition_1.jpg",
+    "DGJ-8388_-_Leaving_the_Island_2x3_partition_2.jpg"
+  ]
+}

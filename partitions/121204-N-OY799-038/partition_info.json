@@ -1,0 +1,10 @@
+{
+  "original_filename": "121204-N-OY799-038.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "121204-N-OY799-038_3x2_partition_1.jpg",
+    "121204-N-OY799-038_3x2_partition_2.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "Mugello_MotoGP_podium_2010.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Mugello_MotoGP_podium_2010_2x3_partition_1.jpg",
+    "Mugello_MotoGP_podium_2010_2x3_partition_2.jpg"
+  ]
+}

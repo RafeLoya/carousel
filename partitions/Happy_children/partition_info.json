@@ -1,0 +1,10 @@
+{
+  "original_filename": "Happy_children.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Happy_children_3x2_partition_1.jpg",
+    "Happy_children_3x2_partition_2.jpg"
+  ]
+}

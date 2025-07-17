@@ -1,0 +1,10 @@
+{
+  "original_filename": "Oberalm_kirche.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Oberalm_kirche_2x3_partition_1.jpg",
+    "Oberalm_kirche_2x3_partition_2.jpg"
+  ]
+}

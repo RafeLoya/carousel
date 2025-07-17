@@ -1,0 +1,11 @@
+{
+  "original_filename": "East_Banqueting_Wool_Church_...g_Campden.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "East_Banqueting_Wool_Church_...g_Campden_3x2_partition_1.jpg",
+    "East_Banqueting_Wool_Church_...g_Campden_3x2_partition_2.jpg",
+    "East_Banqueting_Wool_Church_...g_Campden_3x2_partition_3.jpg"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "original_filename": "Walking_the_seawall_along_Fa...a-_Canada.jpeg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Walking_the_seawall_along_Fa...a-_Canada_3x2_partition_1.jpg",
+    "Walking_the_seawall_along_Fa...a-_Canada_3x2_partition_2.jpg"
+  ]
+}

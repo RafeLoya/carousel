@@ -1,0 +1,10 @@
+{
+  "original_filename": "140614-A-LI860-450.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "140614-A-LI860-450_2x3_partition_1.jpg",
+    "140614-A-LI860-450_2x3_partition_2.jpg"
+  ]
+}

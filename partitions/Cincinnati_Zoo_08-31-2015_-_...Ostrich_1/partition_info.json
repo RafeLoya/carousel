@@ -1,0 +1,10 @@
+{
+  "original_filename": "Cincinnati_Zoo_08-31-2015_-_...Ostrich_1.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Cincinnati_Zoo_08-31-2015_-_...Ostrich_1_2x3_partition_1.jpg",
+    "Cincinnati_Zoo_08-31-2015_-_...Ostrich_1_2x3_partition_2.jpg"
+  ]
+}

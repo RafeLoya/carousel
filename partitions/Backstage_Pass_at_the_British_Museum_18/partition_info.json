@@ -1,0 +1,11 @@
+{
+  "original_filename": "Backstage_Pass_at_the_British_Museum_18.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "vertical",
+  "partition_files": [
+    "Backstage_Pass_at_the_British_Museum_18_2x3_partition_1.jpg",
+    "Backstage_Pass_at_the_British_Museum_18_2x3_partition_2.jpg",
+    "Backstage_Pass_at_the_British_Museum_18_2x3_partition_3.jpg"
+  ]
+}

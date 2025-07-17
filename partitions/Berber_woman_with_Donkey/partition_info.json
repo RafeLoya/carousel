@@ -1,0 +1,10 @@
+{
+  "original_filename": "Berber_woman_with_Donkey.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Berber_woman_with_Donkey_3x2_partition_1.jpg",
+    "Berber_woman_with_Donkey_3x2_partition_2.jpg"
+  ]
+}

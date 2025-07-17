@@ -1,0 +1,10 @@
+{
+  "original_filename": "Va\u0308neko_cow_and_bull.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "vertical",
+  "partition_files": [
+    "Va\u0308neko_cow_and_bull_3x2_partition_1.jpg",
+    "Va\u0308neko_cow_and_bull_3x2_partition_2.jpg"
+  ]
+}

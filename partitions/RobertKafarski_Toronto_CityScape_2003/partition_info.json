@@ -1,0 +1,10 @@
+{
+  "original_filename": "RobertKafarski_Toronto_CityScape_2003.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "RobertKafarski_Toronto_CityScape_2003_2x3_partition_1.jpg",
+    "RobertKafarski_Toronto_CityScape_2003_2x3_partition_2.jpg"
+  ]
+}

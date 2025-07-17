@@ -1,0 +1,10 @@
+{
+  "original_filename": "One_Of_The_Bicyclists_Holds_..._May_1973.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "One_Of_The_Bicyclists_Holds_..._May_1973_2x3_partition_1.jpg",
+    "One_Of_The_Bicyclists_Holds_..._May_1973_2x3_partition_2.jpg"
+  ]
+}

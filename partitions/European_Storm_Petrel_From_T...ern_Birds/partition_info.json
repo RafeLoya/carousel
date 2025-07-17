@@ -1,0 +1,11 @@
+{
+  "original_filename": "European_Storm_Petrel_From_T...ern_Birds.jpg",
+  "aspect_ratio_chosen": "2:3",
+  "num_partitions": 3,
+  "orientation": "horizontal",
+  "partition_files": [
+    "European_Storm_Petrel_From_T...ern_Birds_2x3_partition_1.jpg",
+    "European_Storm_Petrel_From_T...ern_Birds_2x3_partition_2.jpg",
+    "European_Storm_Petrel_From_T...ern_Birds_2x3_partition_3.jpg"
+  ]
+}

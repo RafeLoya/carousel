@@ -1,0 +1,10 @@
+{
+  "original_filename": "Red_square_Moscow_cityscape_-8309148721-.jpg",
+  "aspect_ratio_chosen": "3:2",
+  "num_partitions": 2,
+  "orientation": "horizontal",
+  "partition_files": [
+    "Red_square_Moscow_cityscape_-8309148721-_3x2_partition_1.jpg",
+    "Red_square_Moscow_cityscape_-8309148721-_3x2_partition_2.jpg"
+  ]
+}
