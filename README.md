@@ -1,5 +1,7 @@
 # Carousel: A High-Resolution Dataset for Multi-Target Automatic Image Cropping
 
+<img width="864" height="855" alt="carousel_figure_full" src="https://github.com/user-attachments/assets/820ce3c9-07eb-4706-af17-ea154475924f" />
+
 ***Carousel*** is a dataset of 277 images containing multiple subjects. We present it for the pursuit of performing multi-target automatic image cropping to derive multiple crops from a single photograph, with minimal user input.
 
 ## Data
